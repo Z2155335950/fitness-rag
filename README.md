@@ -208,6 +208,13 @@ python -m uvicorn app:app --host 127.0.0.1 --port 8000
 
 打开 `http://127.0.0.1:8000`。
 
+网页字体本地托管在 `static/fonts/`：
+
+- 标题：霞鹜文楷 Medium（WOFF2 子集）
+- 正文：未来荧黑 SC Normal Regular / Bold（WOFF2 子集）
+
+两套字体均按 SIL Open Font License 1.1 使用，许可证文件随字体一起保存。
+
 ## 可以直接体验的问题
 
 ```text

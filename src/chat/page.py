@@ -9,7 +9,32 @@ CHAT_PAGE = """
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <title>网红训练法</title>
+  <link rel="preload" href="/static/fonts/LXGWWenKai-Title.woff2"
+    as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/static/fonts/GlowSansSC-Body-Regular.woff2"
+    as="font" type="font/woff2" crossorigin>
   <style>
+    @font-face {
+      font-family:"LXGW WenKai Title";
+      src:url("/static/fonts/LXGWWenKai-Title.woff2") format("woff2");
+      font-style:normal;
+      font-weight:400 600;
+      font-display:swap;
+    }
+    @font-face {
+      font-family:"Glow Sans Body";
+      src:url("/static/fonts/GlowSansSC-Body-Regular.woff2") format("woff2");
+      font-style:normal;
+      font-weight:400;
+      font-display:swap;
+    }
+    @font-face {
+      font-family:"Glow Sans Body";
+      src:url("/static/fonts/GlowSansSC-Body-Bold.woff2") format("woff2");
+      font-style:normal;
+      font-weight:600 900;
+      font-display:swap;
+    }
     :root {
       --bg:#090d0c;
       --panel:#111715;
@@ -22,6 +47,8 @@ CHAT_PAGE = """
       --accent-soft:rgba(200,170,112,.12);
       --shadow:0 28px 90px rgba(0,0,0,.38);
       --app-height:100dvh;
+      --font-heading:"LXGW WenKai Title","霞鹜文楷","STKaiti",serif;
+      --font-body:"Glow Sans Body","未来荧黑","PingFang SC","Microsoft YaHei",sans-serif;
     }
     * { box-sizing:border-box; }
     html,body { height:100%; }
@@ -35,7 +62,7 @@ CHAT_PAGE = """
         radial-gradient(circle at 12% -10%,rgba(45,95,72,.24),transparent 34%),
         radial-gradient(circle at 92% 18%,rgba(200,170,112,.07),transparent 26%),
         linear-gradient(145deg,#090d0c,#0c1110 55%,#080b0a);
-      font:15px/1.72 "Inter","PingFang SC","Microsoft YaHei",sans-serif;
+      font:15px/1.72 var(--font-body);
     }
     button,input,textarea {
       -webkit-tap-highlight-color:transparent;
@@ -70,6 +97,7 @@ CHAT_PAGE = """
       background:rgba(8,12,11,.86);
       backdrop-filter:blur(22px);
     }
+    .sidebar-backdrop { display:none; }
     .sidebar-brand {
       padding:4px 7px 18px;
       border-bottom:1px solid var(--line);
@@ -88,7 +116,7 @@ CHAT_PAGE = """
     .sidebar-brand .eyebrow { margin-bottom:8px; }
     .sidebar-brand h2 {
       margin:0;
-      font-family:Georgia,"Noto Serif SC",serif;
+      font-family:var(--font-heading);
       font-size:1.12rem;
       font-weight:500;
       letter-spacing:.05em;
@@ -101,7 +129,7 @@ CHAT_PAGE = """
       border-radius:10px;
       color:#e8d9ba;
       background:var(--accent-soft);
-      font:500 .8rem "Inter","PingFang SC",sans-serif;
+      font:500 .8rem var(--font-body);
       text-align:left;
       cursor:pointer;
     }
@@ -206,6 +234,45 @@ CHAT_PAGE = """
       font-size:.61rem;
       letter-spacing:.08em;
     }
+    .sidebar-foot {
+      display:grid;
+      gap:9px;
+    }
+    .view-switch-title {
+      margin-bottom:7px;
+      color:#68736c;
+      font-size:.62rem;
+      letter-spacing:.12em;
+    }
+    .view-switch-options {
+      display:grid;
+      grid-template-columns:1fr 1fr;
+      gap:3px;
+      padding:3px;
+      border:1px solid var(--line);
+      border-radius:9px;
+      background:rgba(255,255,255,.025);
+    }
+    .view-switch-option {
+      min-height:30px;
+      border:0;
+      border-radius:6px;
+      color:#78837c;
+      background:transparent;
+      font:inherit;
+      font-size:.68rem;
+      letter-spacing:.06em;
+      cursor:pointer;
+    }
+    .view-switch-option:hover { color:#d8cebd; }
+    .view-switch-option[aria-pressed="true"] {
+      color:#17120a;
+      background:var(--accent);
+    }
+    .archive-label {
+      color:#4f5953;
+      letter-spacing:.08em;
+    }
     .shell {
       position:relative;
       width:min(980px,calc(100% - 28px));
@@ -232,7 +299,7 @@ CHAT_PAGE = """
       display:grid;
       place-items:center;
       color:var(--accent);
-      font-family:Georgia,"Noto Serif SC",serif;
+      font-family:var(--font-heading);
       font-size:18px;
       box-shadow:inset 0 0 0 5px rgba(200,170,112,.035);
     }
@@ -246,7 +313,7 @@ CHAT_PAGE = """
     }
     h1 {
       margin:0;
-      font-family:Georgia,"Noto Serif SC","Songti SC",serif;
+      font-family:var(--font-heading);
       font-size:1.5rem;
       font-weight:500;
       line-height:1;
@@ -284,6 +351,34 @@ CHAT_PAGE = """
     }
     .new-chat:hover { color:var(--accent); }
     .mobile-icon { display:none; }
+    .view-toggle {
+      display:inline-flex;
+      align-items:center;
+      justify-content:center;
+      gap:7px;
+      min-height:36px;
+      padding:0 11px;
+      border:1px solid var(--line);
+      border-radius:10px;
+      color:#aaa398;
+      background:rgba(255,255,255,.02);
+      font:inherit;
+      font-size:.72rem;
+      cursor:pointer;
+      transition:border-color .2s ease,color .2s ease,background .2s ease;
+    }
+    .view-toggle:hover {
+      color:var(--accent);
+      border-color:rgba(200,170,112,.32);
+      background:var(--accent-soft);
+    }
+    .view-icon {
+      display:none;
+      place-items:center;
+    }
+    :root[data-view="mobile"] .view-icon-desktop { display:grid; }
+    :root:not([data-view="mobile"]) .view-icon-mobile { display:grid; }
+    .view-toggle-label { white-space:nowrap; }
     .mobile-history {
       display:none;
       border:0;
@@ -322,12 +417,12 @@ CHAT_PAGE = """
       place-items:center;
       margin-bottom:22px;
       color:var(--accent);
-      font-family:Georgia,"Noto Serif SC",serif;
+      font-family:var(--font-heading);
       font-size:1.6rem;
     }
     .empty h2 {
       margin:0 0 8px;
-      font-family:Georgia,"Noto Serif SC",serif;
+      font-family:var(--font-heading);
       font-size:clamp(1.3rem,2.6vw,1.8rem);
       font-weight:400;
       letter-spacing:.05em;
@@ -357,7 +452,7 @@ CHAT_PAGE = """
       color:var(--accent);
       border:1px solid var(--line-strong);
       background:#101513;
-      font-family:Georgia,"Noto Serif SC",serif;
+      font-family:var(--font-heading);
       font-size:.75rem;
     }
     .user .avatar {
@@ -389,6 +484,8 @@ CHAT_PAGE = """
     .bubble h1,.bubble h2,.bubble h3,.bubble h4 {
       margin:.2em 0 .65em;
       color:inherit;
+      font-family:var(--font-heading);
+      font-weight:500;
       line-height:1.35;
     }
     .bubble h1 { font-size:1.2rem; }
@@ -571,7 +668,8 @@ CHAT_PAGE = """
       to { opacity:1; transform:translateY(0); }
     }
     @keyframes fade { from { opacity:0; } to { opacity:1; } }
-    @media (max-width:760px) {
+  </style>
+  <style id="mobileViewStyles" media="(max-width:760px)">
       body { font-size:16px; }
       body::before {
         opacity:.12;
@@ -584,16 +682,24 @@ CHAT_PAGE = """
       }
       .sidebar {
         position:fixed;
-        inset:0 auto 0 0;
+        inset:
+          0
+          auto
+          0
+          max(0px, calc((100vw - 430px) / 2));
         z-index:40;
-        width:min(88vw,340px);
+        width:min(90vw,360px);
+        overflow:hidden;
         padding:
           calc(env(safe-area-inset-top) + 14px)
           16px
           calc(env(safe-area-inset-bottom) + 14px);
         transform:translateX(-104%);
         transition:transform .24s cubic-bezier(.22,.8,.28,1);
+        isolation:isolate;
         border-right-color:var(--line-strong);
+        background:#080d0b;
+        backdrop-filter:none;
         box-shadow:24px 0 70px rgba(0,0,0,.52);
       }
       .sidebar.open { transform:translateX(0); }
@@ -601,15 +707,28 @@ CHAT_PAGE = """
         display:flex;
         align-items:center;
         justify-content:space-between;
+        gap:12px;
         min-height:54px;
         padding:0 0 14px;
+      }
+      .sidebar-brand > div {
+        min-width:0;
+        padding-right:8px;
       }
       .sidebar-brand .eyebrow {
         display:block;
         margin-bottom:5px;
       }
-      .sidebar-brand h2 { font-size:1.05rem; }
-      .sidebar-close { display:grid; }
+      .sidebar-brand h2 {
+        overflow:hidden;
+        font-size:1.05rem;
+        text-overflow:ellipsis;
+        white-space:nowrap;
+      }
+      .sidebar-close {
+        display:grid;
+        flex:none;
+      }
       .new-conversation {
         min-height:48px;
         margin:14px 0 10px;
@@ -639,13 +758,18 @@ CHAT_PAGE = """
         height:34px;
         font-size:.7rem;
       }
+      .sidebar-foot { padding:12px 4px 0; }
+      .view-switch-option {
+        min-height:38px;
+        font-size:.76rem;
+      }
       .sidebar-backdrop {
         display:none;
         position:fixed;
         inset:0;
         z-index:35;
-        background:rgba(0,0,0,.58);
-        backdrop-filter:blur(3px);
+        background:rgba(0,0,0,.72);
+        backdrop-filter:blur(4px);
       }
       .sidebar-backdrop.open { display:block; }
       .shell {
@@ -654,6 +778,9 @@ CHAT_PAGE = """
         grid-template-rows:auto minmax(0,1fr) auto;
       }
       header {
+        display:grid;
+        grid-template-columns:minmax(0,1fr) auto;
+        gap:8px;
         min-height:calc(60px + env(safe-area-inset-top));
         padding:
           calc(env(safe-area-inset-top) + 10px)
@@ -662,7 +789,13 @@ CHAT_PAGE = """
         background:rgba(9,13,12,.82);
         backdrop-filter:blur(18px);
       }
-      .brand { gap:10px; min-width:0; }
+      .brand {
+        gap:10px;
+        min-width:0;
+      }
+      .brand > div {
+        min-width:0;
+      }
       .mark {
         width:36px;
         height:36px;
@@ -672,18 +805,31 @@ CHAT_PAGE = """
       .eyebrow { display:none; }
       h1 {
         overflow:hidden;
+        max-width:100%;
         font-size:1.08rem;
         line-height:1.2;
         text-overflow:ellipsis;
         white-space:nowrap;
       }
-      .header-actions { gap:2px; }
-      .status {
-        width:26px;
-        justify-content:center;
-        gap:0;
+      .header-actions {
+        flex:none;
+        gap:2px;
       }
-      .status #mode { display:none; }
+      .header-actions .status { display:none; }
+      .view-toggle {
+        width:auto;
+        min-width:66px;
+        height:42px;
+        min-height:42px;
+        padding:0 9px;
+        border:1px solid var(--line);
+        border-radius:10px;
+        background:rgba(255,255,255,.025);
+      }
+      .view-toggle .view-toggle-label {
+        display:inline;
+        font-size:.68rem;
+      }
       .mobile-history,
       .new-chat {
         display:grid;
@@ -848,12 +994,41 @@ CHAT_PAGE = """
         font-size:.62rem;
         letter-spacing:.05em;
       }
-    }
     @media (max-width:350px) {
       h1 { font-size:1rem; }
       .status { display:none; }
+      .view-toggle {
+        width:42px;
+        min-width:42px;
+        padding:0;
+        border:0;
+        border-radius:50%;
+        background:transparent;
+      }
+      .view-toggle .view-toggle-label { display:none; }
       #messages { padding-inline:11px; }
       .composer { padding-inline:9px; }
+    }
+  </style>
+  <style>
+    @media (min-width:761px) {
+      :root[data-view="mobile"] .workspace {
+        width:min(430px,100%);
+        margin:0 auto;
+        border-inline:1px solid var(--line);
+        box-shadow:0 0 80px rgba(0,0,0,.45);
+      }
+    }
+    @media (max-width:760px) {
+      :root[data-view="desktop"] body {
+        overflow:auto;
+        overscroll-behavior:auto;
+      }
+      :root[data-view="desktop"] .workspace {
+        width:980px;
+        min-width:980px;
+      }
+      :root[data-view="desktop"] .view-toggle-label { display:none; }
     }
     @media (prefers-reduced-motion:reduce) {
       *,*::before,*::after {
@@ -887,7 +1062,18 @@ CHAT_PAGE = """
     <input id="conversationSearch" class="history-search"
       autocomplete="off" placeholder="搜索历史">
     <div id="conversationList" class="conversation-list"></div>
-    <div class="sidebar-foot">LOCAL ARCHIVE · SQLITE</div>
+    <div class="sidebar-foot">
+      <div>
+        <div class="view-switch-title">页面版本</div>
+        <div class="view-switch-options" role="group" aria-label="页面版本">
+          <button class="view-switch-option" type="button"
+            data-view-choice="desktop" aria-pressed="false">网页版</button>
+          <button class="view-switch-option" type="button"
+            data-view-choice="mobile" aria-pressed="false">手机版</button>
+        </div>
+      </div>
+      <span class="archive-label">LOCAL ARCHIVE · SQLITE</span>
+    </div>
   </aside>
   <div id="sidebarBackdrop" class="sidebar-backdrop"></div>
   <div class="shell">
@@ -908,6 +1094,26 @@ CHAT_PAGE = """
             aria-hidden="true">
             <path d="M4 7h16M4 12h16M4 17h10"></path>
           </svg>
+        </button>
+        <button id="viewToggle" class="view-toggle" type="button"
+          aria-label="切换到手机版" title="切换到手机版">
+          <span class="view-icon view-icon-mobile" aria-hidden="true">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="1.7" stroke-linecap="round"
+              stroke-linejoin="round">
+              <rect x="7" y="3" width="10" height="18" rx="2"></rect>
+              <path d="M11 18h2"></path>
+            </svg>
+          </span>
+          <span class="view-icon view-icon-desktop" aria-hidden="true">
+            <svg width="17" height="17" viewBox="0 0 24 24" fill="none"
+              stroke="currentColor" stroke-width="1.7" stroke-linecap="round"
+              stroke-linejoin="round">
+              <rect x="3" y="4" width="18" height="13" rx="2"></rect>
+              <path d="M8 21h8M12 17v4"></path>
+            </svg>
+          </span>
+          <span id="viewToggleLabel" class="view-toggle-label">手机版</span>
         </button>
         <div class="status">
           <span class="status-dot"></span>
@@ -947,6 +1153,11 @@ const input = document.querySelector('#input');
 const send = document.querySelector('#send');
 const reset = document.querySelector('#reset');
 const mode = document.querySelector('#mode');
+const root = document.documentElement;
+const mobileViewStyles = document.querySelector('#mobileViewStyles');
+const viewToggle = document.querySelector('#viewToggle');
+const viewToggleLabel = document.querySelector('#viewToggleLabel');
+const viewChoiceButtons = [...document.querySelectorAll('[data-view-choice]')];
 const sidebar = document.querySelector('#sidebar');
 const sidebarBackdrop = document.querySelector('#sidebarBackdrop');
 const historyToggle = document.querySelector('#historyToggle');
@@ -954,6 +1165,7 @@ const sidebarClose = document.querySelector('#sidebarClose');
 const newConversation = document.querySelector('#newConversation');
 const conversationSearch = document.querySelector('#conversationSearch');
 const conversationList = document.querySelector('#conversationList');
+const VIEW_MODE_KEY = 'fitness_view_mode';
 let sessionId = localStorage.getItem('fitness_chat_session') || null;
 let searchTimer = null;
 
@@ -996,7 +1208,7 @@ function renderInline(value) {
 }
 
 function renderMarkdown(value) {
-  const lines = String(value ?? '').replace(/\r\n?/g, '\n').split('\n');
+  const lines = String(value ?? '').replace(/\\r\\n?/g, '\\n').split('\\n');
   const html = [];
   let listType = '';
   const closeList = () => {
@@ -1145,6 +1357,52 @@ function closeSidebar() {
   sidebarBackdrop.classList.remove('open');
   historyToggle.setAttribute('aria-expanded', 'false');
   historyToggle.focus({preventScroll:true});
+}
+
+function applyViewMode(view, persist = false) {
+  const nextView = view === 'mobile' ? 'mobile' : 'desktop';
+  const isMobile = nextView === 'mobile';
+  root.dataset.view = nextView;
+  mobileViewStyles.media = isMobile ? 'all' : 'not all';
+  if (mobileViewStyles.sheet) {
+    mobileViewStyles.sheet.disabled = !isMobile;
+  }
+  sidebar.classList.remove('open');
+  sidebarBackdrop.classList.remove('open');
+  historyToggle.setAttribute('aria-expanded', 'false');
+
+  viewToggleLabel.textContent = isMobile ? '网页版' : '手机版';
+  const actionLabel = isMobile ? '切换到网页版' : '切换到手机版';
+  viewToggle.setAttribute('aria-label', actionLabel);
+  viewToggle.title = actionLabel;
+  viewChoiceButtons.forEach(button => {
+    button.setAttribute(
+      'aria-pressed', String(button.dataset.viewChoice === nextView)
+    );
+  });
+
+  if (persist) {
+    localStorage.setItem(VIEW_MODE_KEY, nextView);
+    const url = new URL(window.location.href);
+    url.searchParams.set('view', nextView);
+    window.history.replaceState(null, '', url);
+  }
+  requestAnimationFrame(() => {
+    syncAppHeight();
+    resizeInput();
+    messages.scrollTop = messages.scrollHeight;
+  });
+}
+
+function initialViewMode() {
+  const requested = new URL(window.location.href).searchParams.get('view');
+  if (requested === 'mobile' || requested === 'desktop') {
+    return requested;
+  }
+  const saved = localStorage.getItem(VIEW_MODE_KEY);
+  if (saved === 'mobile' || saved === 'desktop') return saved;
+  return window.matchMedia('(max-width:760px)').matches
+    ? 'mobile' : 'desktop';
 }
 
 function syncAppHeight() {
@@ -1365,12 +1623,28 @@ input.addEventListener('input', () => {
 
 reset.addEventListener('click', createConversation);
 newConversation.addEventListener('click', createConversation);
+viewToggle.addEventListener('click', () => {
+  const nextView = root.dataset.view === 'mobile' ? 'desktop' : 'mobile';
+  applyViewMode(nextView, true);
+});
+viewChoiceButtons.forEach(button => {
+  button.addEventListener('click', () => {
+    applyViewMode(button.dataset.viewChoice, true);
+  });
+});
 historyToggle.addEventListener('click', openSidebar);
 sidebarClose.addEventListener('click', closeSidebar);
 sidebarBackdrop.addEventListener('click', closeSidebar);
 
 document.addEventListener('keydown', (event) => {
   if (event.key === 'Escape') closeSidebar();
+});
+
+const mobileViewportQuery = window.matchMedia('(max-width:760px)');
+mobileViewportQuery.addEventListener('change', (event) => {
+  if (!localStorage.getItem(VIEW_MODE_KEY)) {
+    applyViewMode(event.matches ? 'mobile' : 'desktop');
+  }
 });
 
 conversationSearch.addEventListener('input', () => {
@@ -1409,6 +1683,7 @@ conversationList.addEventListener('click', async (event) => {
 });
 
 async function initialize() {
+  applyViewMode(initialViewMode());
   await loadStatus();
   await loadConversations();
   await loadHistory();

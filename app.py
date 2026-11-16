@@ -1,23 +1,31 @@
 from __future__ import annotations
 
+import mimetypes
 from threading import Lock
 
-from fastapi import Depends, FastAPI, HTTPException
+from fastapi import Depends, FastAPI, HTTPException, Response
 from fastapi.responses import HTMLResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
 from src.chat.api import analytics_router, router as chat_router
 from src.chat.auth import current_owner
 from src.chat.page import CHAT_PAGE
-from src.config import DB_DIR
+from src.config import DB_DIR, PROJECT_ROOT
 from src.index.health import check_index
 from src.rag import FitnessRAG
 
+mimetypes.add_type("font/woff2", ".woff2")
 
 app = FastAPI(
     title="网红训练法",
     description="训练策略与动作知识对话系统",
     version="2.0.0",
+)
+app.mount(
+    "/static",
+    StaticFiles(directory=PROJECT_ROOT / "static"),
+    name="static",
 )
 app.include_router(chat_router)
 app.include_router(analytics_router)
@@ -67,5 +75,11 @@ def action_viewpoints(action_id: str) -> dict:
 
 
 @app.get("/", response_class=HTMLResponse)
-def home(_owner_id: str = Depends(current_owner)) -> str:
+def home(
+    response: Response,
+    _owner_id: str = Depends(current_owner),
+) -> str:
+    response.headers["Cache-Control"] = "no-store, no-cache, must-revalidate"
+    response.headers["Pragma"] = "no-cache"
+    response.headers["Expires"] = "0"
     return CHAT_PAGE
