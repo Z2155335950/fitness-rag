@@ -1,0 +1,34 @@
+{"id": "muscle_胸大肌", "name": "胸大肌", "group": "胸部肌群", "sub_group": null, "aliases": [], "location": "胸廓前侧，锁骨到肋骨，连接肱骨", "function": "肩内收、肩水平内收，推、夹胸动作", "description": "", "raw": "1. 胸大肌：分为胸大肌上束、胸大肌中束、胸大肌下束、胸内侧（胸缝）"}
+{"id": "muscle_胸大肌上束", "name": "胸大肌上束", "group": "胸部肌群", "sub_group": null, "parent": "胸大肌", "aliases": ["胸大肌上束"], "location": "", "function": "", "description": "", "raw": "1. 胸大肌：分为胸大肌上束、胸大肌中束、胸大肌下束、胸内侧（胸缝）"}
+{"id": "muscle_胸大肌中束", "name": "胸大肌中束", "group": "胸部肌群", "sub_group": null, "parent": "胸大肌", "aliases": ["胸大肌中束"], "location": "", "function": "", "description": "", "raw": "1. 胸大肌：分为胸大肌上束、胸大肌中束、胸大肌下束、胸内侧（胸缝）"}
+{"id": "muscle_胸大肌下束", "name": "胸大肌下束", "group": "胸部肌群", "sub_group": null, "parent": "胸大肌", "aliases": ["胸大肌下束"], "location": "", "function": "", "description": "", "raw": "1. 胸大肌：分为胸大肌上束、胸大肌中束、胸大肌下束、胸内侧（胸缝）"}
+{"id": "muscle_胸内侧", "name": "胸内侧", "group": "胸部肌群", "sub_group": null, "parent": "胸大肌", "aliases": ["胸内侧"], "location": "", "function": "", "description": "", "raw": "1. 胸大肌：分为胸大肌上束、胸大肌中束、胸大肌下束、胸内侧（胸缝）"}
+{"id": "muscle_胸小肌", "name": "胸小肌", "group": "胸部肌群", "sub_group": null, "aliases": [], "location": "胸大肌深层，肋骨到肩胛骨喙突", "function": "下拉肩胛骨（健美一般不主动训练，容易紧张圆肩）", "description": "", "raw": "2. 胸小肌"}
+{"id": "muscle_背阔肌", "name": "背阔肌", "group": "背部肌群", "sub_group": "阔背区域", "aliases": [], "location": "后背两侧，腋下下方，“翅膀”肌肉", "function": "肩关节内收、下拉、后伸（引体、高位下拉、划船）", "description": "", "raw": "1. 背阔肌"}
+{"id": "muscle_菱形肌", "name": "菱形肌", "group": "背部肌群", "sub_group": "中背部", "aliases": ["大菱形肌", "小菱形肌"], "location": "两肩胛骨之间，脊柱到肩胛骨内侧", "function": "肩胛骨后缩夹紧（划船、面拉）", "description": "", "raw": "2. 菱形肌（大菱形肌、小菱形肌）"}
+{"id": "muscle_斜方肌", "name": "斜方肌", "group": "背部肌群", "sub_group": "中背部", "aliases": [], "location": "", "function": "", "description": "上斜方肌、中斜方肌、下斜方肌", "raw": "3. 斜方肌：上斜方肌、中斜方肌、下斜方肌"}
+{"id": "muscle_上斜方肌", "name": "上斜方肌", "group": "背部肌群", "sub_group": "中背部", "parent": "斜方肌", "aliases": ["上斜方肌"], "location": "颈侧到肩峰，耸肩动作；健美一般控制不要过度发达", "function": "", "description": "", "raw": "- 上斜方肌：颈侧到肩峰，耸肩动作；健美一般控制不要过度发达"}
+{"id": "muscle_中斜方肌", "name": "中斜方肌", "group": "背部肌群", "sub_group": "中背部", "parent": "斜方肌", "aliases": ["中斜方肌"], "location": "肩胛骨之间，肩胛骨后缩", "function": "", "description": "", "raw": "- 中斜方肌：肩胛骨之间，肩胛骨后缩"}
+{"id": "muscle_下斜方肌", "name": "下斜方肌", "group": "背部肌群", "sub_group": "中背部", "parent": "斜方肌", "aliases": ["下斜方肌"], "location": "肩胛骨下方，下沉肩胛骨（非常重要，改善耸肩）", "function": "", "description": "", "raw": "- 下斜方肌：肩胛骨下方，下沉肩胛骨（非常重要，改善耸肩）"}
+{"id": "muscle_大圆肌", "name": "大圆肌", "group": "背部肌群", "sub_group": "中背部", "aliases": [], "location": "背阔肌上方，肩胛骨外侧", "function": "辅助背阔下拉手臂", "description": "", "raw": "4. 大圆肌"}
+{"id": "muscle_小圆肌", "name": "小圆肌", "group": "背部肌群", "sub_group": "中背部", "aliases": ["肩袖四肌群", "冈下肌", "肩胛下肌", "冈上肌"], "location": "肩胛骨深层，肩袖稳定肌群", "function": "肩关节稳定，预防肩伤，面拉是经典训练", "description": "", "raw": "5. 小圆肌、冈下肌、肩胛下肌、冈上肌（肩袖四肌群）"}
+{"id": "muscle_竖脊肌", "name": "竖脊肌", "group": "背部肌群", "sub_group": "下背", "aliases": ["髂肋肌", "最长肌", "棘肌"], "location": "脊柱两侧长条肌肉", "function": "脊柱伸展，硬拉、山羊挺身", "description": "", "raw": "6. 竖脊肌（髂肋肌、最长肌、棘肌）"}
+{"id": "muscle_三角肌前束", "name": "三角肌前束", "group": "肩部肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "肩前侧，前平举、卧推、推举", "raw": "1. 三角肌前束：肩前侧，前平举、卧推、推举"}
+{"id": "muscle_三角肌中束", "name": "三角肌中束", "group": "肩部肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "肩外侧，侧平举（决定肩宽）", "raw": "2. 三角肌中束：肩外侧，侧平举（决定肩宽）"}
+{"id": "muscle_三角肌后束", "name": "三角肌后束", "group": "肩部肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "肩后侧，反向飞鸟、面拉（薄弱高发肌群）", "raw": "3. 三角肌后束：肩后侧，反向飞鸟、面拉（薄弱高发肌群）"}
+{"id": "muscle_肱二头肌", "name": "肱二头肌", "group": "手臂肌群", "sub_group": "上臂前侧", "aliases": [], "location": "上臂前面", "function": "屈肘、手腕旋后（弯举）", "description": "长头、短头", "raw": "1. 肱二头肌：长头、短头"}
+{"id": "muscle_肱三头肌", "name": "肱三头肌", "group": "手臂肌群", "sub_group": "上臂后侧", "aliases": [], "location": "上臂后侧", "function": "伸肘（下压、臂屈伸）", "description": "长头、外侧头、内侧头", "raw": "2. 肱三头肌：长头、外侧头、内侧头"}
+{"id": "muscle_前臂屈肌群", "name": "前臂屈肌群", "group": "手臂肌群", "sub_group": "前臂肌群", "aliases": ["掌侧"], "location": "", "function": "", "description": "腕屈", "raw": "3. 前臂屈肌群（掌侧）：腕屈"}
+{"id": "muscle_前臂伸肌群", "name": "前臂伸肌群", "group": "手臂肌群", "sub_group": "前臂肌群", "aliases": ["背侧"], "location": "", "function": "", "description": "腕伸", "raw": "4. 前臂伸肌群（背侧）：腕伸"}
+{"id": "muscle_肘肌", "name": "肘肌", "group": "手臂肌群", "sub_group": "前臂肌群", "aliases": [], "location": "", "function": "", "description": "肘关节外侧，辅助伸肘", "raw": "5. 肘肌：肘关节外侧，辅助伸肘"}
+{"id": "muscle_股四头肌", "name": "股四头肌", "group": "腿部肌群", "sub_group": "大腿前侧", "aliases": [], "location": "大腿前侧", "function": "伸膝（深蹲、腿屈伸）", "description": "股直肌、股外侧肌、股内侧肌（膝盖水滴肌）、股中间肌", "raw": "1. 股四头肌：股直肌、股外侧肌、股内侧肌（膝盖水滴肌）、股中间肌"}
+{"id": "muscle_腘绳肌", "name": "腘绳肌", "group": "腿部肌群", "sub_group": "大腿后侧", "aliases": [], "location": "大腿后侧", "function": "屈膝、髋后伸（腿弯举、罗马尼亚硬拉）", "description": "股二头肌（长头、短头）、半腱肌、半膜肌", "raw": "2. 腘绳肌：股二头肌（长头、短头）、半腱肌、半膜肌"}
+{"id": "muscle_臀大肌", "name": "臀大肌", "group": "腿部肌群", "sub_group": "臀部", "aliases": ["臀中肌", "臀小肌"], "location": "", "function": "", "description": "", "raw": "3. 臀大肌、臀中肌、臀小肌"}
+{"id": "muscle_臀中肌", "name": "臀中肌", "group": "腿部肌群", "sub_group": "臀部", "parent": "臀大肌", "aliases": ["臀中肌"], "location": "臀上部外侧，髋外展（改善假胯宽）", "function": "", "description": "", "raw": "- 臀中肌：臀上部外侧，髋外展（改善假胯宽）"}
+{"id": "muscle_腓肠肌", "name": "腓肠肌", "group": "腿部肌群", "sub_group": "小腿", "aliases": ["内侧头", "外侧头"], "location": "", "function": "", "description": "浅层，屈膝+提踵", "raw": "4. 腓肠肌（内侧头、外侧头）：浅层，屈膝+提踵"}
+{"id": "muscle_比目鱼肌", "name": "比目鱼肌", "group": "腿部肌群", "sub_group": "小腿", "aliases": [], "location": "", "function": "", "description": "腓肠肌深层，屈膝状态下提踵（坐姿提踵）", "raw": "5. 比目鱼肌：腓肠肌深层，屈膝状态下提踵（坐姿提踵）"}
+{"id": "muscle_腹直肌", "name": "腹直肌", "group": "核心肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "上腹部、下腹部，腹肌块", "raw": "1. 腹直肌：上腹部、下腹部，腹肌块"}
+{"id": "muscle_腹外斜肌", "name": "腹外斜肌", "group": "核心肌群", "sub_group": null, "aliases": ["腹内斜肌"], "location": "", "function": "", "description": "腹部两侧（侧腹）", "raw": "2. 腹外斜肌、腹内斜肌：腹部两侧（侧腹）"}
+{"id": "muscle_腹横肌", "name": "腹横肌", "group": "核心肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "最深层，天然束腰，稳定躯干", "raw": "3. 腹横肌：最深层，天然束腰，稳定躯干"}
+{"id": "muscle_髂腰肌", "name": "髂腰肌", "group": "核心肌群", "sub_group": null, "aliases": [], "location": "", "function": "", "description": "下腹深层，髋屈曲（举腿）", "raw": "4. 髂腰肌：下腹深层，髋屈曲（举腿）"}
+{"id": "muscle_前锯肌", "name": "前锯肌", "group": "其他", "sub_group": null, "aliases": [], "location": "", "function": "肩胛骨前伸，俯卧撑、推类动作会激活", "description": "肋骨侧面，肩胛骨贴紧胸廓，“鲨鱼肌”", "raw": "1. 前锯肌：肋骨侧面，肩胛骨贴紧胸廓，“鲨鱼肌”"}

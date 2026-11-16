@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+server.*.log
+db/chroma*/
+db/*.pkl
+db/chat_history.sqlite3*
+db/.auth_secret
+db/manifest.json
+src/query/新建 文本文档*.txt
+data/eval/latest_report.json
+项目进度.txt

@@ -1,0 +1,3090 @@
+{
+  "action_杠铃高杠深蹲": [
+    {
+      "id": "viewpoint_983df7b877f3067a",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "高杠深蹲股四主导，自然选手容量控制",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "16:08",
+      "viewpoint": "高杠深蹲杠铃放在上斜方，躯干相对直立，股四头肌主导；膝盖跟随脚尖；复合主项RIR2‑3；自然选手控制每周硬组，不要无限制堆组数。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_208ebe6160b534c8",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "高杠深蹲躯干姿态与RPE执行",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "13:12",
+      "viewpoint": "高杠深蹲杠铃放置在上斜方，躯干保持相对直立，膝盖跟随脚尖；采用RPE8，保留1‑2次余力，不建议频繁冲极限，瓦式呼吸稳定胸腔。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_633a23720af754cc",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "高杠深蹲站位、躯干姿态与自然选手容量",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:18",
+      "viewpoint": "高杠深蹲杠铃放在上斜方肌，躯干保持相对直立，膝盖跟随脚尖方向，下蹲至大腿平行地面或略低；自然选手不要每周高频堆深蹲组数，优先渐进超负荷，疲劳累积及时安排deload",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_aa4f051af8f80795",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "高杠深蹲躯干稳定与肋骨控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:17",
+      "viewpoint": "高杠深蹲优先稳住躯干直立，不要刻意过度俯身；肋骨全程收住，不要翻肋，膝盖跟随脚尖方向，重心落在足中，不要压前脚掌。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_平板杠铃卧推": [
+    {
+      "id": "viewpoint_6e4d032a6c016576",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "平板杠铃卧推肩胛稳定与手肘角度",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "14:25",
+      "viewpoint": "卧推肩胛预先后缩下沉牢牢钉在凳面，手肘与躯干夹角45‑60度，不要打开至90度，避免肩关节压力过大；可以适度起桥，但优先保证三点接触（头、上背、臀部）；复合组建议RIR2‑3，不要频繁力竭。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_2c56faf2a7a1c7f7",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "平板杠铃卧推RPE控制与递进组逻辑",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:22",
+      "viewpoint": "卧推动作质量优先于重量数字，采用递进组模式，RPE控制在8，每组预留1‑2次余力，不追求每组力竭；肩胛预先固定下沉后缩，触胸保持胸部张力，禁止弹震起杠，瓦式呼吸稳定胸腔。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_3cbccc2b6f964bb4",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "底位停顿卧推消除反弹借力",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:04",
+      "viewpoint": "停顿卧推杠铃触胸之后静止停顿1‑2秒，消除弹震反弹借力；强化胸肌向心力量，适合改善卧推底部粘滞点；重量比普通卧推降一档。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ef866dc1d07cff21",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "平板杠铃卧推肩胛稳定与发力逻辑",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "12:10",
+      "viewpoint": "卧推属于推胸动作模式，预先完成肩胛下沉后收并且全程保持刚性，小臂尽量垂直杠铃；不要把卧推单纯当成手臂发力，优先调动胸大肌，腰部适度起桥但不要过度拱腰代偿腰椎",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_198b709671049528",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "平板杠铃卧推肩胛稳定提示",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "04:22",
+      "viewpoint": "卧推不要单纯理解成胸肌孤立动作，它是一个整体协同动作；肩胛骨预先下沉后缩固定，不要随推起向外飘；重量循序渐进，不要直接上力竭重量，预留余量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_上斜哑铃卧推": [
+    {
+      "id": "viewpoint_1045ea0c2f96edc0",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "上斜哑铃卧推倾角选择15‑30度",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:10",
+      "viewpoint": "上斜哑铃卧推优先选用15‑30°倾角；超过30‑45°，负荷会大量转移给三角肌前束，削弱上胸刺激；作为补充动作，不要替代平板推胸主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_f1657cf55720e36b",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "上斜哑铃卧推角度与负荷分配",
+      "platform": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1UFxM6vETD",
+      "source_status": "partial",
+      "timestamp": "08:40",
+      "viewpoint": "上斜凳选择15‑30度，角度过大负荷大量转移三角肌前束；作为胸补充动作，10‑12次区间，优先感受上胸持续张力，不要盲目上重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_240b688511af297c",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "上斜哑铃卧推角度与刺激分配",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "14:05",
+      "viewpoint": "上斜凳优先选用15‑30度，角度过大动作会偏移成肩推，大量转移负荷给到三角肌前束；作为推胸的补充动作，用来补强上胸薄弱",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ee22cc7647f5d449",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "上斜哑铃卧推上胸刺激要点",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:53",
+      "viewpoint": "上斜凳优先选择15~30°，角度太大变成肩推；选择你能收住肋骨的重量，不要盲目加重；呼气过程收紧胸廓，呼气越干净，上胸的张力越强。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_双杠臂屈伸（侧重胸）": [
+    {
+      "id": "viewpoint_af4e91d90a2d3c93",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "双杠臂屈伸姿态调整胸/三头侧重",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:20",
+      "viewpoint": "身体前倾、骨盆微前倾侧重下胸；躯干垂直更多侧重肱三头肌；下放获得充分胸肌拉伸，控制离心；力量足够之后可以腰间挂负重，作为推胸替代复合动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_16bbc692ee511c31",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "双杠臂屈伸姿态区分胸与三头刺激",
+      "platform": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1oTnd6qE4V",
+      "source_status": "partial",
+      "timestamp": "07:33",
+      "viewpoint": "身体前倾更多侧重下胸；身体垂直更多侧重肱三头肌；新手优先保证动作模式，禁止摆动借力，熟练后再增加腰间负重。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_b235e20e8fe872df",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "双杠臂屈伸身体姿态区分胸和三头",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:40",
+      "viewpoint": "身体前倾、重心往前倾，侧重刺激下胸；身体垂直更多，主要刺激肱三头肌；新手不要摆动借力，动作模式做对之后再考虑腰间加负重",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_3dcf602ab19923a0",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "双杠臂屈伸区分胸和三头发力",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "06:11",
+      "viewpoint": "想要侧重下胸，身体主动前倾；垂直身体做，刺激会偏向肱三头肌；新手优先退阶，不要摆动借力，优先保证肩胛稳定，再加负重。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿绳索划船（窄握V把）": [
+    {
+      "id": "viewpoint_3e37b325020edabc",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "窄握V把坐姿绳索划船背阔发力",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "03:40",
+      "viewpoint": "腿蹬紧固定骨盆，先深吸气预先激活背阔；发力是夹肘斜下方拉动，靠手臂带动肩胛骨活动，不要单独只做肩胛骨后缩；禁止弯腰、头前伸。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃俯身划船（正手）": [
+    {
+      "id": "viewpoint_2fe21f95e75481eb",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "正手杠铃俯身划船水平拉模式，脊柱中立",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:30",
+      "viewpoint": "杠铃俯身划船保持脊柱全程中立，俯身角度45度左右；杠铃贴着大腿拉向下腹部，肩胛主动后缩；复合组RIR2‑3，避免弓背代偿下背。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_3896b6aeb22d0a03",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "正手杠铃俯身划船水平拉要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "12:10",
+      "viewpoint": "俯身角度40‑45度，脊柱全程中立，杠铃贴大腿拉向腹部；依靠肩胛后缩带动，禁止弓背、甩动杠铃借力，目标是背部机械张力而不是搬重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_2fca4c882e598e51",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "正手杠铃俯身划船水平拉模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:20",
+      "viewpoint": "杠铃划船属于水平拉模式，腰背保持脊柱中立，俯身45度左右；杠铃贴着大腿拉向腹部，依靠肩胛后缩带动，禁止弓背、甩动杠铃借力",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a5e8786928812d0a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "正手杠铃俯身划船中背",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:24",
+      "viewpoint": "正手俯身划船，杠铃贴大腿拉到下腹，腰背平直，俯身45~60度；刺激菱形肌、斜方中下束、背阔，不要甩杠铃。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_d2b35fd160b9dff2",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃俯身划船俯身角度选择",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "05:08",
+      "viewpoint": "普通爱好者俯身45~60度是黄金角度，兼顾背阔拉伸和腰椎安全；备赛可以压低俯身角度，但普通人不要模仿；全程沉肩，手肘贴近身体向后划，手肘外展容易练到肩后束。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_直臂绳索下压": [
+    {
+      "id": "viewpoint_306b0f95ef50f13a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "直臂下压背阔离心控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:55",
+      "viewpoint": "直臂下压重点练下背阔，离心幅度不要放太大；背阔不同区域分开训练，不要一个动作试图把背全部练满，否则每个部位都得不到有效刺激。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索面拉": [
+    {
+      "id": "viewpoint_4611884c0ac697e6",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "绳索面拉三角肌后束与肩袖保护",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:33",
+      "viewpoint": "绳索面拉把手拉至额头高度，手肘向外充分打开；同时训练三角肌后束、肩袖、中下斜方肌；推类训练前后都适合做激活，保护肩关节，属于高性价比肩部动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_c5263befccc3d171",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "绳索面拉肩袖与三角肌后束激活",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:10",
+      "viewpoint": "绳索面拉把手拉向额头高度，手肘向外打开；不只是练后束，同时强化肩袖肌群，推类训练前后适合做激活，保护肩关节。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ed03c9c973fa284e",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "绳索面拉肩袖与肩后束",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "03:44",
+      "viewpoint": "绳索面拉归属于肩后束训练模式，不只是练三角肌后束，同时训练肩袖肌群；把手拉到额头高度，手肘向外打开，推类训练前后都可以用来做激活补强",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_f02e7e2c8859e910",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "绳索面拉肩袖与后束激活",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:22",
+      "viewpoint": "面拉不只是练三角肌后束，更是肩袖、菱形肌的稳定动作；把手拉向额头高度，手肘向外打开，不要往下拉，适合所有上肢推动作前激活。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃侧平举": [
+    {
+      "id": "viewpoint_dcddf0d3f81f68f0",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "哑铃侧平举肩中束孤立，控制代偿",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:40",
+      "viewpoint": "哑铃侧平举手臂微弯，抬至肩膀高度即可；严格抑制耸肩、上斜方肌代偿；不适合大重量，孤立动作末尾组允许RIR0‑1接近力竭。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_03a32f5093b3ad4f",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "哑铃侧平举肩中束训练，规避斜方代偿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:33",
+      "viewpoint": "侧平举不适合大重量；手臂微弯抬至肩膀高度，重点抑制耸肩，上斜方肌代偿是本动作最主要问题；优先肌肉感受，不要追求重量数字。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_b8e99da44ae22e0d",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "哑铃侧平举肩中束训练逻辑",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:18",
+      "viewpoint": "侧平举属于肩中束孤立模式，不适合大重量；手臂保持微弯，抬至肩膀高度即可，重点避免耸肩，上斜方代偿是这个动作最常见问题",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_55e5ec03aa8f442b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "侧平举中束低代偿思路",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "03:14",
+      "viewpoint": "侧平举不要追求大重量，优先控制轨迹；想象手臂向外打开，不要向上甩；Y字侧平举变式对肩峰压力更小，适合肩有弹响、卡顿的人。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_仰卧杠铃臂屈伸（碎颅者）": [
+    {
+      "id": "viewpoint_28301c20ceefced2",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "仰卧臂屈伸三头长头保护肘关节",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "04:01",
+      "viewpoint": "仰卧臂屈伸主打三头长头，轻重量优先；不要靠腹部抬起来完成下放，背贴紧凳面；发力是三头长头收缩带起杠铃，不要硬顶肘关节，长期大重量容易肘不适。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_单腿罗马尼亚硬拉（哑铃）": [
+    {
+      "id": "viewpoint_58352e6d669deb92",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "单腿罗马尼亚硬拉单侧臀腘链训练",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:10",
+      "viewpoint": "单腿罗马尼亚硬拉用来改善单侧臀腘链薄弱；保持腰背平直，髋向后折叠；不追求下放深度，优先保证脊柱姿态。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_475a458d6d7c1d85",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "单腿罗马尼亚硬拉单侧臀腘链训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:45",
+      "viewpoint": "单腿罗硬拉站立脚全脚掌踩实，肩‑后腿保持一条整体；髋向后折叠，禁止骨盆翻转、弯腰；优先RPE8不到力竭，用来改善臀腘链左右不对称。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_502f31be80ad31cb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "单腿罗马尼亚硬拉臀腘链稳定",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:33",
+      "viewpoint": "单腿罗硬拉核心是髋铰链，腰背全程刚性；臀部向后折叠，不要弯腰；这个动作优先用来改善两侧臀腘链不对称，属于下肢功能雕刻动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索卷腹": [
+    {
+      "id": "viewpoint_a22586413faf391b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "绳索卷腹下腹与骨盆控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:46",
+      "viewpoint": "绳索卷腹不要用脖子下拉，是骨盆后翻带动卷动；全程肋骨收住，靠腹直肌收缩完成，适合用来雕刻腹直肌整体厚度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_高位下拉（宽握正手）": [
+    {
+      "id": "viewpoint_93dc876138a200a5",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "宽握高位下拉背阔宽度训练，限制后仰",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:33",
+      "viewpoint": "宽握高位下拉启动先沉肩，把手拉至上胸；大幅度后仰会把负荷转移给竖脊肌，要控制躯干姿态；可以作为引体向上替代垂直拉主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_50d895b90e6cb431",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "宽握高位下拉垂直拉执行要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:30",
+      "viewpoint": "高位下拉启动第一步沉肩，手肘向下拉动把手至上胸；禁止大幅度后仰，后仰过多把负荷转移到竖脊肌，降低背阔肌刺激。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_98fd6c16b560f796",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "宽握高位下拉垂直拉执行要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:15",
+      "viewpoint": "高位下拉是标准垂直拉模式；启动第一步沉肩胛，之后手肘向下拉动把手至上胸，禁止大幅度后仰借力，后仰过多负荷转移到下背竖脊肌",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_f9c53ef1ebca9b72",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "宽握高位下拉背阔宽度训练",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "03:26",
+      "viewpoint": "宽握高位下拉主打背阔外侧宽度，沉肩，把手拉至上胸位置，不要拉到脖子；不要过度后仰，后仰太多会把压力给到下背竖脊肌。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_站姿杠铃推举（颈前推）": [
+    {
+      "id": "viewpoint_1eb09dcdf1fb5091",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "站姿杠铃颈前推肩部复合主项，核心刚性",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:12",
+      "viewpoint": "站姿实力推核心绷紧，禁止靠腰部后仰代偿；杠铃从锁骨垂直向上推起；兼顾三角肌前束、中束，同时训练躯干抗伸展稳定；复合组RIR2‑3。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_44c45b63c6e75f24",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "站姿杠铃颈前推肩部复合主项",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:05",
+      "viewpoint": "站姿实力推核心收紧，禁止依靠腰部后仰代偿；杠铃从锁骨垂直向上推起，兼顾三角肌前束中束，同时训练躯干的抗伸展稳定能力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a11542baa687c411",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "站姿杠铃颈前推肩部复合主项",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:25",
+      "viewpoint": "站姿实力推属于肩部推举主项，核心收紧，禁止依靠腰部后仰代偿；杠铃从锁骨向上垂直推起，兼顾三角肌前束与中束，同时训练躯干稳定能力",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_90b39360bfcfce5a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "站姿颈前推核心刚性要点",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:09",
+      "viewpoint": "站姿实力推，核心绷紧，不要靠腰部后仰代偿；杠铃从锁骨向上推，轨迹垂直向上，优先锻炼三角肌前中束，同时强化躯干稳定能力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_牧师凳弯举": [
+    {
+      "id": "viewpoint_2e8015b34fc0f933",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "EZ‑Bar Preacher Curl牧师凳弯举下半程优先",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:44",
+      "viewpoint": "牧师凳弯举下半程（拉伸位置）带来的肌肉增长远大于上半程收缩位；训练重点放在下放‑下半程，不要只做顶部挤压；优先从拉伸位启动。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_edd2745cd0506ef2",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "器械托臂弯举消除躯干代偿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:15",
+      "viewpoint": "器械托臂弯举上臂被完全固定，隔绝身体摆动；完全孤立肱二头肌；适合修正二头感受差；不要猛甩，重视离心下放。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_3e22dc4684c4aa83",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "牧师凳弯举孤立二头短头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:15",
+      "viewpoint": "牧师凳弯举上臂固定，消除身体借力，专门孤立刺激肱二头肌短头；下放阶段不要完全卸掉张力，保持持续负荷。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃臀推": [
+    {
+      "id": "viewpoint_1e36e5806752d97d",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "杠铃臀推强化臀大肌，控制顶髋不要超伸腰椎",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:05",
+      "viewpoint": "杠铃臀推上背靠凳，小腿尽量垂直地面；顶髋到身体平直就顶峰夹紧臀部，不要刻意过度后伸腰椎；是臀大肌最高效复合动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_351b891720c558f4",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃臀推顶峰夹紧要点",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:47",
+      "viewpoint": "臀推上背靠稳，小腿垂直地面，顶髋到身体一条直线，顶峰有意识夹紧臀部；不要过度顶腰，发力主体是臀大肌，不是腰椎。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_腿屈伸": [
+    {
+      "id": "viewpoint_9e1912f171781644",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "腿屈伸股四孤立，放在训练末尾补强",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:18",
+      "viewpoint": "腿屈伸是股四头肌孤立动作，不适合大重量；放在腿训末尾补强薄弱点；控制离心，孤立组允许RIR0‑1接近力竭，注意保护膝关节。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_db3b341e446c44c9",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "腿屈伸股四头肌孤立使用边界",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:11",
+      "viewpoint": "腿屈伸是股四头肌孤立收尾动作，不适合大重量；控制离心阶段，不要猛甩，大重量容易增加膝关节剪切应力，放在腿训末尾补强薄弱部位。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_bc898c22bd6e0db4",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "腿屈伸孤立股四头肌的使用思路",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:10",
+      "viewpoint": "腿屈伸是股四头肌孤立动作，不适合大重量，放在腿训末尾做补强；控制离心阶段，不要猛甩重量，避免膝关节压力过大",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_1bea81b58f336110",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "腿屈伸股内侧肌雕刻",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:32",
+      "viewpoint": "腿屈伸是股四孤立动作，适合雕刻股内侧肌水滴肌；控制下放速度，不要猛砸，轻重量多次数，优先肌肉感受，不适合上超大重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俯卧腿弯举": [
+    {
+      "id": "viewpoint_875d0f215266b7d3",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "俯卧腿弯举腘绳肌重视离心阶段",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:50",
+      "viewpoint": "俯卧腿弯举，脚跟向臀部收拢；腘绳肌的离心拉伸收益很高，下放阶段一定要慢；腘绳薄弱会放大膝盖受伤风险，腿训建议必须安排腘绳训练。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_cbe8add0991b355f",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "俯卧腿弯举腘绳肌离心控制",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:42",
+      "viewpoint": "俯卧腿弯举脚跟向臀部收拢，顶峰停顿；腘绳肌重视离心阶段，下放要慢；腘绳薄弱会放大膝盖代偿，腿日建议搭配训练。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_e663faa7443294c3",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "腿弯举腘绳肌孤立训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:45",
+      "viewpoint": "腿弯举孤立刺激腘绳肌，腘绳肌薄弱容易导致膝盖代偿，腿日建议搭配；顶峰收缩停顿，缓慢离心，不要借力甩动",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a090dcab2e92917a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "俯卧腿弯举腘绳肌离心控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:18",
+      "viewpoint": "俯卧腿弯举，脚跟向臀部收拢，顶峰停顿；腘绳肌是离心能力很强的肌群，下放阶段是刺激重点，不要快速弹开。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃农夫行走": [
+    {
+      "id": "viewpoint_acdc55f70bf17824",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "农夫行走全身稳定与握力",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:58",
+      "viewpoint": "农夫行走不只是练握力，它是全身稳定训练；沉肩、肋骨收住，核心全程绷紧，匀速前进，适合放在训练末尾做功能强化。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索夹胸（高位）": [
+    {
+      "id": "viewpoint_4a92ce4bb9808683",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "高位绳索夹胸下胸内侧雕刻",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:24",
+      "viewpoint": "高位绳索夹胸把手从上往下收拢，主攻下胸内侧；手臂夹角固定，只用胸肌收缩带动把手靠拢，不要屈肘借力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_器械反向飞鸟": [
+    {
+      "id": "viewpoint_dff5747cde78b1a5",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "器械反向飞鸟后束稳定",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:41",
+      "viewpoint": "器械反向飞鸟胸口贴紧靠垫，限制躯干晃动；向两侧打开，重点感受三角肌后束收缩，不要抬太高，抬太高容易斜方代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_锤式弯举（哑铃）": [
+    {
+      "id": "viewpoint_d9c5d3a8efaba464",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "锤式弯举刺激肱肌，增加手臂围度",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:22",
+      "viewpoint": "锤式弯举掌心相对，重点刺激肱肌与肱桡肌；肱肌增厚可以抬高二头肌视觉高度；想要手臂整体围度，锤式弯举不可缺少。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_c541baca04471b2d",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "锤式弯举增厚肱肌思路",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:32",
+      "viewpoint": "锤式弯举掌心相对，重点刺激肱肌；肱肌位于二头肌下方，增厚肱肌可以抬高二头肌视觉高度，想要手臂围度不能只练普通弯举。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_54ce174661cc6126",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "锤式弯举增厚肱肌思路",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:22",
+      "viewpoint": "锤式弯举掌心相对，重点刺激肱肌；肱肌在二头下方，肱肌增厚可以直接抬高二头视觉高度，想要手臂围度不能只练普通弯举",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_7f2624da9d5b0881",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "锤式弯举增厚肱肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:27",
+      "viewpoint": "锤式弯举掌心相对，不翻腕，重点刺激肱肌，肱肌厚度可以撑起二头视觉高度；上臂贴紧身体，避免摆动借力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哈克深蹲（正向）": [
+    {
+      "id": "viewpoint_5b0f47962b734ad4",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "正向哈克深蹲脚位调整",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:36",
+      "viewpoint": "哈克深蹲脚放靠前，股四刺激更强；脚放靠后，臀腘参与更多；背靠垫板，全程脊柱保持中立，不要弓背。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_悬垂举腿": [
+    {
+      "id": "viewpoint_e1e99108d0bb571e",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "悬垂举腿下腹激活",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:51",
+      "viewpoint": "悬垂举腿先沉肩，不要耸肩；用下腹带动骨盆卷起，不是单纯甩腿；新手优先屈膝版本，降低髂腰肌代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_传统硬拉": [
+    {
+      "id": "viewpoint_3eeab0826d2d57a2",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "传统硬拉自然选手频率与脊柱刚性",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "13:40",
+      "viewpoint": "传统硬拉神经消耗巨大；启动时刻保持脊柱完全刚性，杠铃紧贴小腿；自然训练不要过高频率安排；硬拉可以被臀推、山羊挺身部分替代。",
+      "category": "训练体系",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_bddfc5cdc667245e",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "传统硬拉神经消耗与脊柱刚性",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "12:44",
+      "viewpoint": "传统硬拉神经消耗巨大，自然训练者控制训练频率；启动必须保持脊柱刚性，髋膝同步发力，绝对禁止弯腰去拉起重量。",
+      "category": "训练体系",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_94f88cfe36936b6f",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "传统硬拉神经消耗与训练频率",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:05",
+      "viewpoint": "传统硬拉对中枢神经消耗极大，自然选手不建议高频安排；启动时保持脊柱中立，髋膝同步发力，不要弯腰拉起，避免腰部受伤",
+      "category": "训练体系",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a2f5dd03473d39c8",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "传统硬拉后链刚性",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "03:44",
+      "viewpoint": "传统硬拉是全身后链动作，腰背刚性是第一前提，杠铃全程贴腿；不要弯腰去够重量，新手优先把髋铰链模式练熟再加重。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_前锯肌绳索前推（Serratus Punch）": [
+    {
+      "id": "viewpoint_524401f78467106a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "前锯肌绳索前推鲨鱼肌训练",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:34",
+      "viewpoint": "前锯肌推只做肩胛骨前伸，手肘角度固定不动；不要屈肘发力，这个动作用来激活前锯肌，改善圆肩，提升推类动作稳定性。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_保加利亚分腿蹲": [
+    {
+      "id": "viewpoint_d481f5a88253529e",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "保加利亚分腿蹲单侧下肢矫正不对称",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:44",
+      "viewpoint": "保加利亚分腿蹲是优秀单侧腿训练动作，改善双腿力量不平衡；重心放在前腿，控制下蹲速度；适合作为深蹲受伤或受限时代替主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_395054e2a06a59a2",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "保加利亚分腿蹲重心控制要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:33",
+      "viewpoint": "保加利亚分腿蹲重心始终放在前腿，后腿尽量少参与发力；主动屈髋下蹲，蹬地伸膝伸髋站起；不要屁股向后坐，避免后膝承受过大压力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_df8174c7c1ff5763",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "保加利亚分腿蹲单侧下肢雕刻",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "",
+      "viewpoint": "保加利亚分腿蹲是单侧王牌，用来修正双腿力量不对称；重心不要过度前倾，后膝缓慢下放，不要砸地，优先感受前侧股四和臀部。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿提踵": [
+    {
+      "id": "viewpoint_9091d8eaabe64db0",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "坐姿提踵比目鱼肌专项",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:19",
+      "viewpoint": "坐姿屈膝状态做提踵，腓肠肌放松，专门刺激比目鱼肌；顶峰停顿，缓慢下放，小腿想要饱满，腓肠肌和比目鱼肌两个都要练。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃耸肩": [
+    {
+      "id": "viewpoint_26adec3820751fe1",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃耸肩上斜方肌控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:08",
+      "viewpoint": "健美训练要控制上斜方体积，不要高频大重量耸肩；耸肩只垂直向上，不要向后绕肩，向后绕肩会额外增加斜方负担。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索下压（直杆）": [
+    {
+      "id": "viewpoint_0174f5b357d53f9d",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "绳索下压肱三头肌外侧头，上臂固定",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:12",
+      "viewpoint": "绳索下压上臂全程贴紧躯干保持固定，只活动小臂；不要锁死肘关节，维持三头持续张力；三头占上臂大部分体积，手臂训练必须兼顾三头。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ed1b7b2b19408eb9",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "绳索下压肱三头肌外侧头训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:41",
+      "viewpoint": "绳索下压上臂贴紧躯干固定，只活动小臂；三头占据上臂大部分体积，增肌训练不能只练二头肌忽略三头肌发展。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_6c8d11546b92d086",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "绳索下压三头臂屈伸模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:04",
+      "viewpoint": "臂屈伸是肱三头肌动作模式；绳索下压上臂必须贴紧躯干固定不动，只做小臂伸展；三头占上臂大部分体积，增肌不能只练二头忽略三头",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_10bb08cfd8743ab5",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "直杆绳索下压三头外侧头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:24",
+      "viewpoint": "直杆绳索下压主攻肱三头肌外侧头，上臂全程贴紧身体固定不动；只动小臂，不要大臂前后晃动，保证张力集中在三头。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_蝴蝶机夹胸": [
+    {
+      "id": "viewpoint_ed1f5926888667a5",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "蝴蝶机夹胸孤立胸内侧，收尾充血",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:30",
+      "viewpoint": "蝴蝶机夹胸属于孤立收尾动作，不能替代复合推胸；背部贴紧靠垫，顶峰充分夹紧胸内侧；孤立组可以RIR0‑1接近力竭，适合训练末尾强化胸内侧感受。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_d29e7325b332e79e",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "蝴蝶机夹胸定位：收尾充血动作",
+      "platform": "bilibili",
+      "source_url": "https://www.bilibili.com/video/BV1xHnb6VEbP",
+      "source_status": "partial",
+      "timestamp": "06:21",
+      "viewpoint": "蝴蝶机夹胸属于胸肌收尾孤立动作，不能替代卧推这类复合主项；背部贴紧靠垫，顶峰夹紧，适合训练末尾做充血感受，不适合大重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_65a8a1ce31206f47",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "蝴蝶机夹胸夹胸动作模式定位",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:12",
+      "viewpoint": "夹胸属于胸肌次要孤立模式，不适合上大重量；背部贴紧靠背，主要用来做收尾充血，强化胸内侧感受，不能替代卧推这类推胸复合主项",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_fed0af75527f976b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "蝴蝶机夹胸胸缝雕刻",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:04",
+      "viewpoint": "蝴蝶机夹胸背部贴死靠背，不要抬肩，向内收拢顶峰夹紧停顿；适合用来收尾，强化胸内侧，不适合上大重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_单臂哑铃划船": [
+    {
+      "id": "viewpoint_4fdb79d2cce4d566",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "单臂哑铃划船修正背部力量不对称",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:20",
+      "viewpoint": "单臂哑铃划船用来改善背部左右力量不平衡；稳定躯干，哑铃拉向同侧髋部，不要拉向胸口，防止三角肌后束抢夺负荷。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_83d05db07fafecb1",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "单臂哑铃划船修正背部力量不对称",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:44",
+      "viewpoint": "单臂哑铃划船适合矫正左右背部不平衡；腰背放平，哑铃拉向同侧髋部，不要拉向胸口，避免三角肌后束抢夺负荷。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_6766aebff1e55cf8",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "单臂哑铃划船单侧背部矫正",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:02",
+      "viewpoint": "单臂哑铃划船非常适合修正背部左右力量不平衡；一手稳固支撑凳子，腰背放平，哑铃拉向同侧髋部，不要拉向胸口，避免肩后束抢负荷",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_34b5ff721673f59c",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "单臂哑铃划船单侧背阔",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:11",
+      "viewpoint": "单臂哑铃划船适合修正左右背阔不对称；腰背放平，哑铃向着髋部提拉，不要往胸口拉，避免肩后束抢力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_阿诺德推举": [
+    {
+      "id": "viewpoint_48935398ebb6e865",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "阿诺德推举旋转刺激肩前束与中束",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:05",
+      "viewpoint": "阿诺德推举通过手腕旋转，一个动作覆盖三角肌前束、中束；适合中等重量雕刻，不建议上超大重量，适合放在肩训中前期。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_bea127a1778c57e4",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "阿诺德推举肩前中束过渡刺激",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:47",
+      "viewpoint": "阿诺德推举旋转哑铃，从掌心朝自己转到朝前，在一个动作里兼顾前束和中束，适合肩部热身或者中等重量雕刻。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_仰卧举腿": [
+    {
+      "id": "viewpoint_789ee995555a6493",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "仰卧举腿下腹控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:30",
+      "viewpoint": "仰卧举腿下放的时候脚不要落地，全程保持下腹张力；不要靠惯性甩腿，核心弱的人屈膝完成，降低髂腰肌代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿腿外展器械": [
+    {
+      "id": "viewpoint_087fd6ae2839a91b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "坐姿腿外展臀中肌激活",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:22",
+      "viewpoint": "坐姿腿外展靠背贴紧，膝盖向外打开，顶峰夹紧臀外侧；不要猛弹，臀中肌是稳定肌群，适合轻重量多次数。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿腿内收器械": [
+    {
+      "id": "viewpoint_9fc5f29db3d43dbd",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "坐姿腿内收大腿内侧",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:17",
+      "viewpoint": "腿内收器械用来刺激大腿内收肌群，向内合拢的时候有意识夹紧大腿内侧，不要用腰部借力往前顶。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_站姿提踵": [
+    {
+      "id": "viewpoint_d7ee10a71217ba2a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "站姿提踵腓肠肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:12",
+      "viewpoint": "站姿提踵膝盖伸直，腓肠肌主导；一定要全幅度，最高点停顿，缓慢下放，不要只做半程，半程很难长肌肉。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_卷腹": [
+    {
+      "id": "viewpoint_7cd1d32c75943f10",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "卷腹上腹训练要点",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:06",
+      "viewpoint": "卷腹只卷起上背部，不要整个人坐起来；坐起来之后腹直肌张力会消失，还容易髂腰肌抢力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_反向卷腹": [
+    {
+      "id": "viewpoint_5b9236000d641250",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "反向卷腹下腹优先",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:14",
+      "viewpoint": "反向卷腹核心是骨盆后翻，膝盖往胸口卷，不是单纯抬腿；这个动作比仰卧举腿对下腹更友好，髂腰肌代偿更少。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_平板支撑": [
+    {
+      "id": "viewpoint_ce7cb9427f08f7e1",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "平板支撑腹横肌稳定",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:09",
+      "viewpoint": "平板支撑练腹横肌深层稳定，身体一条直线，臀部不塌不翘；不要憋气，均匀呼吸，它不是用来练腹肌分离度的。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_侧平板支撑": [
+    {
+      "id": "viewpoint_a6afabd63c4bf34d",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "侧平板侧腹稳定",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:05",
+      "viewpoint": "侧平板支撑用来强化腹斜肌和腹横肌，身体保持平直，不要往下坠髋，适合核心功能训练。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索伐木转体": [
+    {
+      "id": "viewpoint_4667a5bba9bdbee3",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "绳索伐木腹斜肌雕刻",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:20",
+      "viewpoint": "绳索伐木靠侧腹扭转带动，不要用手臂硬拽；高位绳索，从斜上方拉向对侧髋，打造侧腹线条。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_山羊挺身（背伸）": [
+    {
+      "id": "viewpoint_cda810581e54f330",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "山羊挺身不要腰椎超伸，强化后链",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:22",
+      "viewpoint": "山羊挺身抬升至躯干与下肢一条直线即停止，禁止过度后仰超伸腰椎；可以负重，作为硬拉的后链补充替代动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_486a50653fd7deba",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "山羊挺身禁止腰椎过度超伸",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:30",
+      "viewpoint": "山羊挺身抬起到躯干和身体成一条直线即可，禁止过度后仰超伸腰椎；目标刺激臀、腘绳、竖脊肌，后期可以负重增加难度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a86a6f26cb8130cc",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "山羊挺身后侧链训练要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:08",
+      "viewpoint": "山羊挺身重点练下背、臀、腘绳肌，起身不要过度超伸腰椎；保持脊柱中立，只抬到躯干和身体一条直线即可，可后期负重",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_9e6e6dcf5fed87d9",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "山羊挺身竖脊肌控制",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:33",
+      "viewpoint": "山羊挺身抬到躯干和身体一条直线就停，不要过度后仰；过度后仰会把压力给到腰椎，重点是竖脊肌、臀、腘绳的等长控制。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_凯索耸肩（Kelso Shrug）": [
+    {
+      "id": "viewpoint_0039f90728c57e55",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "凯索耸肩中斜方菱形肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:10",
+      "viewpoint": "凯索耸肩手肘锁死，只做肩胛骨后缩夹紧，不抬手臂；专门加厚中背部，避开二头疲劳，适合菱形肌、中斜方薄弱的人。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_引体向上（宽握）": [
+    {
+      "id": "viewpoint_c73bfa94bff74b5c",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "Weighted Pull‑Up负重引体向上执行要点",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:55",
+      "viewpoint": "负重引体向上是自然背阔最高效复合动作之一；先保证自重动作标准，再挂负重片；不要依靠摆动，重视离心下放阶段。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_6729106c1d46ce19",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "宽握引体向上充分拉伸背阔，控制离心",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:44",
+      "viewpoint": "引体向上启动前充分下放，获得背阔肌拉伸张力；启动沉肩，手肘向下驱动身体，顶峰停顿，重点控制下放离心阶段；自然训练可以作为垂直拉首选主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_355b80a819419328",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "宽握引体向上垂直拉模式要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:04",
+      "viewpoint": "引体向上启动先沉肩，用手肘向下带动身体，而不是手臂单纯弯曲；优先动作质量，做不到完整引体优先选择器械辅助引体向上过渡。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ae04c8276787c5c9",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "宽握引体向上垂直拉动作模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:33",
+      "viewpoint": "引体向上属于垂直拉高阶动作，启动先沉肩，用手肘向下带动身体，而不是单纯弯手臂拽；力量不足不要硬冲，可以选择高位下拉作为替代，优先保证一致动作模式",
+      "category": "训练体系",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_ea9a260d86ccbcbb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "宽握引体向上背阔宽度",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:22",
+      "viewpoint": "宽握引体向上优先沉肩，用手肘向下拉，不是弯手臂；胸口主动去找单杠，不要摆动借力，主打背阔外侧宽度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_引体向上（窄握反握）": [
+    {
+      "id": "viewpoint_d84810649f205217",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "窄握反握引体背阔下部",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:15",
+      "viewpoint": "反握窄握引体，二头参与更高，更容易拉起，刺激偏向背阔下沿；适合新手入门，或者补强背阔下沿空洞。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_相扑硬拉": [
+    {
+      "id": "viewpoint_c93548d23a321670",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "相扑硬拉臀和内收肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:41",
+      "viewpoint": "相扑硬拉宽站距脚尖外八，臀和大腿内收肌参与更多；重心居中，不要往前趴，适合臀弱、腘绳相对强的人。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_北欧挺（北欧离心）": [
+    {
+      "id": "viewpoint_72cd51189fcd2619",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "北欧挺腘绳肌离心",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:28",
+      "viewpoint": "北欧挺是腘绳肌顶级离心训练，难度很高，新手先做半程；膝盖固定，缓慢向前俯身，靠腘绳控制减速，不要直接砸下去。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃箭步蹲（行走箭步蹲）": [
+    {
+      "id": "viewpoint_4771d9c02c7a89da",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "行走箭步蹲单侧臀腿",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:07",
+      "viewpoint": "行走箭步蹲一步一步向前，下蹲到前后腿接近90°，前膝不要过度超脚尖；用来均衡左右臀腿，同时提升髋稳定。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_腿举": [
+    {
+      "id": "viewpoint_cc3239fe9716fbdc",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "腿举脚位调整刺激重心，腰椎压力更低",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:33",
+      "viewpoint": "腿举脚位偏下侧重股四，脚位偏上侧重臀腘链；不要锁死膝关节；相比深蹲腰椎压力更小，可作为深蹲受限时代替下肢复合主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_e5b46688e78b0bc6",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "腿举动作定位与安全要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:22",
+      "viewpoint": "腿举属于下肢复合动作，腰部压力远小于深蹲，适合深蹲能力不足或者腰部不适的人；下放时不要把臀部抬离靠背，不要锁死膝盖",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_93d9c13d3a789fc5",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "腿举脚位切换刺激",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:14",
+      "viewpoint": "腿举脚放低侧重股四，脚放高侧重臀腘；全程不要锁死膝盖，下放时控制，不要猛弹，适合下肢大负荷，腰椎压力比深蹲小。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_反向腕弯举（掌心向下）": [
+    {
+      "id": "viewpoint_d61c187f57e5fc9d",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "反向腕弯举前臂伸肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:04",
+      "viewpoint": "反向腕弯举掌心向下，练前臂伸肌；很多人只练屈肌，伸肌薄弱容易网球肘，练手臂围度要兼顾正反两侧。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_腕弯举（掌心向上）": [
+    {
+      "id": "viewpoint_b4f6294661065182",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "腕弯举前臂屈肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:02",
+      "viewpoint": "掌心向上腕弯举主攻前臂屈肌，小臂贴凳固定，只活动手腕；和反向腕弯举搭配，前臂厚度均衡发展。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俯身哑铃臂屈伸": [
+    {
+      "id": "viewpoint_c99d84fae8ecc2cc",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "俯身哑铃臂屈伸三头外侧头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:18",
+      "viewpoint": "俯身哑铃臂屈伸，大臂向后抬起固定，只向后伸展小臂；优先刺激三头外侧头，适合三头收尾雕刻。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃颈后臂屈伸（站姿）": [
+    {
+      "id": "viewpoint_d7ec8ce1886166e0",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "站姿颈后臂屈伸三头长头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:21",
+      "viewpoint": "站姿颈后臂屈伸上臂贴紧耳朵固定，小臂向后弯曲再伸直；专门拉伸刺激三头长头，长头是三头体积的关键。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_集中弯举": [
+    {
+      "id": "viewpoint_51065f06f49f457f",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "集中弯举二头峰值",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:11",
+      "viewpoint": "集中弯举手肘抵在大腿内侧，完全锁死上臂，最大化孤立二头，适合打造二头峰值，轻重量慢控制。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃交替弯举": [
+    {
+      "id": "viewpoint_f02ae46f22605972",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "哑铃交替弯举二头旋转收缩",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:13",
+      "viewpoint": "交替弯举可以配合手腕旋转，在顶峰旋腕，增加二头的收缩感；上臂贴紧身体，不要摆动借力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索弯举（直杆）": [
+    {
+      "id": "viewpoint_10661a187af798d9",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "绳索弯举不同把手的刺激差异",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:12",
+      "viewpoint": "绳索弯举更换直杆、EZ杆、D型把手；直杆侧重二头整体，D把手掌心相对偏向肱肌；利用把手切换在同一动作模式下改变刺激。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_d12adcad54170c1d",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "绳索弯举二头持续张力",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:16",
+      "viewpoint": "绳索弯举全程都有持续张力，没有卸力点；上臂贴紧身体不动，只弯小臂，适合二头收尾充血。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索下压（V型杆）": [
+    {
+      "id": "viewpoint_679ab1baa659eae5",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "V杆绳索下压侧重肱三头肌内侧头",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:30",
+      "viewpoint": "V型杆绳索下压握姿内收，更多刺激肱三头肌内侧头；用来雕刻三头马蹄形轮廓；上臂依旧贴紧躯干，不要大臂晃动。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_cfc603152dcca203",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "V杆绳索下压三头内侧头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:23",
+      "viewpoint": "V型杆下压，握姿内收，更偏向肱三头肌内侧头；手肘固定，不要前后晃动，雕刻三头马蹄形轮廓。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_单臂绳索下拉": [
+    {
+      "id": "viewpoint_500f53cee6480b3a",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "单臂绳索下拉单侧背阔孤立训练",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:55",
+      "viewpoint": "单臂绳索下拉适合单侧背阔薄弱；沉肩，手肘向下向后，尽量稳定躯干，避免身体扭转借力；孤立组可以靠近力竭RIR0‑1。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_4d486d7627bbc916",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "单臂绳索下拉单侧背阔肌训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:42",
+      "viewpoint": "单臂绳索下拉力线贴合背阔肌纤维走向；沉肩，手肘向下向后，躯干尽量稳定，不要大幅度扭转身体借力，用来矫正单侧薄弱。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a6bb815d41d9cea2",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "单臂绳索下拉单侧背阔",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:44",
+      "viewpoint": "单臂绳索下拉，沉肩，手肘向下向后，适合单独补强单侧背阔，改善左右背阔不对称，不要大幅度扭转身体借力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_T杠划船": [
+    {
+      "id": "viewpoint_da2e391889e2092e",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "T杠划船限制躯干晃动加厚中背",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:55",
+      "viewpoint": "T杠划船胸口抵住靠垫，减少躯干摆动，降低腰部压力；拉动时肩胛骨夹紧，重点刺激菱形肌、中下斜方肌，适合增厚中背部。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_9c3924cdcad4b716",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "T杠划船加厚中背训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:22",
+      "viewpoint": "T杠划船胸口抵住靠垫，限制躯干晃动，降低腰部代偿风险；拉动时主动夹紧肩胛骨，重点加厚菱形肌、中下斜方肌。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_604411eff13cb143",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "T杠划船中背厚度训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:15",
+      "viewpoint": "T杠划船胸口抵住靠垫，可以限制躯干晃动，降低下背代偿风险，适合加厚中背菱形肌、斜方肌中下束；拉动时肩胛骨主动夹紧",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_64c5bf8dbea5f455",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "T杠划船中背厚度",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:30",
+      "viewpoint": "T杠划船胸口抵住靠垫，躯干稳定，把T杠拉向下腹，肩胛骨夹紧，是打造中背厚度的王牌动作，不容易弯腰代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_高位下拉（窄握V把）": [
+    {
+      "id": "viewpoint_83272555dd11378a",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "窄握V把高位下拉刺激背阔下沿",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:44",
+      "viewpoint": "窄握V把高位下拉手肘贴近躯干，侧重背阔肌中下部，改善背阔下沿空洞；同样启动优先沉肩，控制离心下放。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_8003842cf31c065f",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "窄握V把高位下拉强化背阔下沿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:50",
+      "viewpoint": "窄握V把下拉手肘贴近躯干，对背阔肌中下部刺激更强，改善背阔下沿空洞；同样需要先沉肩再启动拉动。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_4e7eb4c7b7fd0a8c",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "窄握V把高位下拉刺激背阔下沿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:30",
+      "viewpoint": "窄握V把高位下拉手肘更贴近身体，对背阔肌中下部刺激更强，适合改善背阔下沿空洞，同样要做到先沉肩再启动拉动",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a8aad58fe9731dd7",
+      "speaker": "谭成义",
+      "speaker_id": "source_type",
+      "title": "窄握V把高位下拉，手肘向下向后，重点刺激背阔下沿，改善背阔下沿空洞，适合",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:26",
+      "viewpoint": "窄握V把高位下拉，手肘向下向后，重点刺激背阔下沿，改善背阔下沿空洞，适合背阔下部薄弱人群。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿绳索划船（宽握）": [
+    {
+      "id": "viewpoint_686c7f308ff2ac69",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "宽握坐姿绳索划船菱形肌斜方中下束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:19",
+      "viewpoint": "宽握坐姿划船，把手拉到上胸，肩胛骨向后夹紧，主攻菱形肌、斜方中下束，加厚中上背。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俯身哑铃反向飞鸟": [
+    {
+      "id": "viewpoint_de6b4d3add5158b5",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "俯身哑铃反向飞鸟后束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:37",
+      "viewpoint": "俯身反向飞鸟，背部平直，哑铃向两侧打开，手肘微弯；适合家里没有器械的时候练三角肌后束，注意控制重量，防止斜方代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_单臂哑铃侧平举": [
+    {
+      "id": "viewpoint_7029db5198d042ab",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "单臂哑铃侧平举单侧中束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:29",
+      "viewpoint": "单臂侧平举用来修正左右肩中束不对称，单侧单独控制，更容易找到中束发力感，避免强侧代偿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_器械侧平举": [
+    {
+      "id": "viewpoint_3f740f0cc6d90a6f",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "器械侧平举稳定轨迹",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:25",
+      "viewpoint": "器械侧平举轨迹固定，躯干不容易晃动，适合新手建立中束发力感，或者收尾雕刻肩外侧宽度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索侧平举": [
+    {
+      "id": "viewpoint_929ca9c8f7f577e5",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "High‑cable lateral raise高位绳索侧平举",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:10",
+      "viewpoint": "高位绳索侧平举绳索从上方下拉，改变力线，三角肌中束在运动后半程维持更高张力；适合哑铃侧平举后半程快速卸力的人，作为肩中束补充。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_5e48a47994884d5b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "绳索侧平举从下方拉起，全程持续张力，比哑铃侧平举卸力点更少，中束刺激更连",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:27",
+      "viewpoint": "绳索侧平举从下方拉起，全程持续张力，比哑铃侧平举卸力点更少，中束刺激更连贯。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃前平举": [
+    {
+      "id": "viewpoint_5ea908b6dec66391",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "哑铃前平举三角肌前束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:19",
+      "viewpoint": "哑铃前平举抬到肩高即可，不要甩动；三角肌前束在卧推里已经大量参与，不要高频大重量练前平举，避免前束过度发达挤压肩峰。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃前平举": [
+    {
+      "id": "viewpoint_78e36ca19fea552b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃前平举前束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:17",
+      "viewpoint": "杠铃前平举握距略宽于肩，匀速抬起，杠铃轨迹在身前中线；它适合均衡刺激前束，但同样要控制训练量，防止肩峰撞击。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿哑铃推举": [
+    {
+      "id": "viewpoint_56917164ee0f1385",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "坐姿哑铃推举减少腰椎代偿风险",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:22",
+      "viewpoint": "坐姿哑铃推举背靠靠背，限制腰部代偿；哑铃放在耳朵两侧，不要贴紧耳朵；适合腰部能力不足者，作为站姿实力推的轮换替代动作。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_0c44081d7d9d3d50",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "坐姿哑铃推举减少腰部代偿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:28",
+      "viewpoint": "坐姿哑铃推举背靠靠背，限制腰部代偿；哑铃放在耳朵两侧，不要贴紧耳朵，作为肩部复合主项适合腰部能力一般训练者。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_f8513adebc45b650",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "坐姿哑铃推举减少腰部代偿",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:11",
+      "viewpoint": "坐姿哑铃推举背靠靠背，可以限制腰部代偿，适合腰部能力一般的人作为肩部复合主项；哑铃位置放在耳朵两侧，不要贴住耳朵",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_66e58ef9f68dbbdd",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "坐姿哑铃推举肩前中束",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:02",
+      "viewpoint": "坐姿哑铃推举背部贴紧靠背，限制腰部代偿；哑铃放在耳侧，不要贴住耳朵，兼顾三角肌前束和中束，是肩部复合主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_地板卧推（杠铃）": [
+    {
+      "id": "viewpoint_37480842fca178bb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "地板杠铃卧推胸向心收缩",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:54",
+      "viewpoint": "地板卧推手肘落到地面就停，下放幅度受限，减少肩的压力，重点强化胸的向心发力，适合肩不舒服的时候替代平板卧推。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_下斜哑铃卧推": [
+    {
+      "id": "viewpoint_16929b5cbfa681db",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "下斜哑铃卧推下胸",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:56",
+      "viewpoint": "下斜哑铃卧推头部低于躯干，哑铃落点在下胸；不要下放过低，避免肩膀往前冲，主打下胸厚度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_下斜哑铃飞鸟": [
+    {
+      "id": "viewpoint_50771df8e34f45d8",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "下斜哑铃飞鸟下胸内侧",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:48",
+      "viewpoint": "下斜飞鸟手臂微弯固定夹角，从下方向外打开，向内收拢挤压下胸下缘；轻重量，雕刻下胸线条，不要甩哑铃。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_上斜哑铃飞鸟": [
+    {
+      "id": "viewpoint_159145b41d19a1e4",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "上斜哑铃飞鸟上胸内侧",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:50",
+      "viewpoint": "上斜飞鸟，角度15~30°，手臂微弯，像抱大树一样打开收拢；专门雕刻上胸内侧，轻重量慢控制，不要大幅度屈伸手肘。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索夹胸（低位）": [
+    {
+      "id": "viewpoint_9b2ffa6ddcdbb8ff",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "低位绳索夹胸上胸内侧",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:46",
+      "viewpoint": "低位绳索夹胸把手从下往上收拢，主攻上胸内侧；手臂夹角固定不动，只用胸肌挤压，不要屈肘借力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_宽距俯卧撑": [
+    {
+      "id": "viewpoint_46cab7925a83197a",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "宽距俯卧撑胸外侧",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:35",
+      "viewpoint": "宽距俯卧撑双手宽于肩，下沉感受胸外侧拉伸，三头参与变少；保持身体一条直线，不要塌腰耸肩。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_窄距俯卧撑": [
+    {
+      "id": "viewpoint_5d07ecfad0eaa51e",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "窄距俯卧撑胸内侧+三头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:33",
+      "viewpoint": "窄距俯卧撑双手靠近，手肘贴近身体，刺激胸内侧和肱三头肌；适合自重进阶，没有器械的时候用来充血。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俯卧撑（标准）": [
+    {
+      "id": "viewpoint_1c619484b9c0da00",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "标准俯卧撑胸整体",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:31",
+      "viewpoint": "标准俯卧撑，身体一条直线，核心收紧；垫高脚可以增加下胸刺激，垫高手侧重上胸，自重也可以调整刺激区域。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_辅助引体向上（器械）": [
+    {
+      "id": "viewpoint_93778d6037387bb1",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "器械辅助引体向上渐进过渡策略",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:15",
+      "viewpoint": "器械辅助引体向上只抵消部分体重，不要让器械直接抬升身体；保持完整动作模式，训练周期逐步降低助力，实现渐进超负荷，是引体向上优秀过渡方案。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_e828c7b6cadc1d03",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "器械辅助引体向上进阶思路",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:50",
+      "viewpoint": "器械辅助引体向上，助力只抵消部分体重，不要完全交给器械抬升身体；保持沉肩、手肘向下拉动，训练周期内逐步降低助力，实现渐进超负荷。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_5a58ef7512616ca4",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "器械辅助引体向上使用原则",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:55",
+      "viewpoint": "器械辅助引体向上，助力只抵消部分体重，不要让器械把你直接“抬上去”；依旧要执行沉肩、手肘向下拉动，逐步降低助力完成渐进超负荷",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_b69b9fdbf43a5f57",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "器械辅助引体向上背阔入门",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:13",
+      "viewpoint": "器械辅助引体向上，助力只抵消一部分体重，依旧保持沉肩，不要过度后仰，用来建立背阔下拉模式，逐步减少助力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哈克深蹲（反向）": [
+    {
+      "id": "viewpoint_7ef24189df2915e3",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "反向哈克深蹲髋主导模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:25",
+      "viewpoint": "反向哈克深蹲属于髋屈伸动作模式；重心向后，臀腘链占主导；适合强化臀部，股四刺激下降；同一个器械靠站位朝向切换训练模式。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_1924da9320b744cb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "反向哈克深蹲臀腘链",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:20",
+      "viewpoint": "反向哈克深蹲，重心后移，重点刺激臀大肌和腘绳肌；适合臀弱人群，对股四刺激偏少。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_单腿臀推": [
+    {
+      "id": "viewpoint_b777b2b0feab016b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "单腿臀推单侧臀大肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:55",
+      "viewpoint": "单腿臀推单脚踩地，另一条腿抬起，孤立单侧臀部，专门修正左右臀不对称；顶髋到身体平直，顶峰夹紧臀部。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_倒蹬提踵": [
+    {
+      "id": "viewpoint_9c84035344e2dbcc",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "倒蹬提踵腓肠肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:14",
+      "viewpoint": "腿举器械上做提踵，下肢稳定，可以上更大重量，腓肠肌刺激更强；注意膝盖保持微弯，不要锁死。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_死虫式": [
+    {
+      "id": "viewpoint_9cf376aa1f2854d5",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "死虫式腹横肌深层稳定",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:07",
+      "viewpoint": "死虫式平躺，对侧手脚缓慢伸展，全程下背贴紧地面；专门训练腹横肌，提升躯干抗旋转、抗伸展能力，适合热身和核心康复。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俄罗斯转体": [
+    {
+      "id": "viewpoint_16c4a881be36c93b",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "俄罗斯转体腹斜肌",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:12",
+      "viewpoint": "俄罗斯转体上半身微微后倾，用侧腹带动转体，不要甩手臂；适合腹斜肌耐力训练，不适合大重量爆发。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_安德森深蹲（安全架底位启动深蹲）": [
+    {
+      "id": "viewpoint_b73f352de7ee4170",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "安德森深蹲底部股四力量",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:27",
+      "viewpoint": "安德森深蹲从架子最低点静止启动，没有反弹借力，专门强化深蹲底部力量、股四头肌底部张力，适合突破深蹲平台。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃前深蹲": [
+    {
+      "id": "viewpoint_271e153bce85530e",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "杠铃前深蹲强刺激股四头肌",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:20",
+      "viewpoint": "杠铃前深蹲杠铃架于锁骨前，手肘抬高；重心靠前，极大强化股四头肌刺激；对核心要求高，可以作为高杠深蹲的轮换变式。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a1915e5a2fafacbb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃前深蹲股四主导",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:32",
+      "viewpoint": "前深蹲杠铃架在锁骨前，手肘抬高，重心靠前，股四头肌刺激极强；对核心要求高，不要弯腰塌背，防止杠铃下滑。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_哑铃硬拉": [
+    {
+      "id": "viewpoint_268f8659d191afe1",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "哑铃硬拉后链友好",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:35",
+      "viewpoint": "哑铃硬拉哑铃贴小腿两侧，轨迹和杠铃硬拉一致；对脊柱压力更小，适合新手学习髋铰链模式，或者腰部敏感的人。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃俯身划船（反手）": [
+    {
+      "id": "viewpoint_bcfa73812f8d1cbb",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "反手杠铃俯身划船背阔下部",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:22",
+      "viewpoint": "反手抓握俯身划船，手肘更贴身体，背阔下部刺激更强，二头参与更高，适合补强背阔下沿。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿腿弯举": [
+    {
+      "id": "viewpoint_f0287ca3b6807501",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "腿弯举腘绳肌孤立训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "04:45",
+      "viewpoint": "腿弯举孤立刺激腘绳肌，腘绳肌薄弱容易导致膝盖代偿，腿日建议搭配；顶峰收缩停顿，缓慢离心，不要借力甩动",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_8e34b1dd7d0e9ad9",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "坐姿腿弯举腘绳长头",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "01:40",
+      "viewpoint": "坐姿腿弯举屈膝模式，腘绳肌长头刺激更好；控制收拢和下放速度，腘绳长头是腘绳体积的重要部分。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_罗马尼亚硬拉（杠铃）": [
+    {
+      "id": "viewpoint_b54075d4cf4b4825",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "罗马尼亚硬拉髋铰链，腘绳拉伸张力",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "12:22",
+      "viewpoint": "罗马尼亚硬拉是纯粹髋铰链动作；膝盖微弯保持固定，臀部向后推，感受腘绳肌拉伸；腰背必须刚性，不要弯腰，重点获取肌肉拉伸张力而不是追求下放深度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_0cf9568535c5c4d3",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "罗马尼亚硬拉髋铰链模式核心",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:20",
+      "viewpoint": "罗马尼亚硬拉是髋铰链动作，膝盖微弯固定，主动向后推髋；腰背全程刚性，不要弯腰，感受腘绳肌拉伸，不要刻意追求下放深度牺牲脊柱姿态。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_96033d552f94c213",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "罗马尼亚硬拉髋铰链模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:30",
+      "viewpoint": "罗马尼亚硬拉以髋铰链为主，膝盖微屈固定，主动向后推髋，感受腘绳肌拉伸，全程腰背刚性，不要弓背弯腰，用来补强后侧链",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_b5234bf029308748",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "杠铃罗马尼亚硬拉腘绳臀",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:40",
+      "viewpoint": "杠铃罗硬拉膝盖微弯固定，臀部向后推，感受大腿后侧拉伸；不要屈膝过多变成深蹲，重点是腘绳肌和臀的拉伸收缩。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_平板哑铃卧推": [
+    {
+      "id": "viewpoint_902486bcdb6e6e60",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "平板哑铃卧推更大活动幅度与不对称矫正",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:40",
+      "viewpoint": "哑铃卧推允许更大的下放拉伸幅度，强化胸肌拉伸张力；推起时哑铃向身体中线靠拢，适合修正左右胸力量不均衡；适合作为杠铃卧推轮换变式，降低关节长期累积压力。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_7a364b5171ada602",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "平板哑铃卧推张力控制要点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:15",
+      "viewpoint": "哑铃卧推适合调整左右力量不平衡；下放充分拉伸胸肌，推起向中线靠拢；不要过度追求大重量，优先保证胸肌的机械张力，而不是单纯移动哑铃。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_3cdb69d322eff80f",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "平板哑铃卧推优势与轨迹控制",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "13:22",
+      "viewpoint": "哑铃卧推自由度更高，可以适配不同肩宽，适合改善左右胸力量不对称；下放阶段充分拉伸胸肌，推起时哑铃向身体中线靠拢，手腕保持中立不要翻腕",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_4b8889a0802d7248",
+      "speaker": "谭成义",
+      "speaker_id": "coach_tan001",
+      "title": "平板哑铃卧推胸整体",
+      "platform": "douyin",
+      "source_url": "https://www.douyin.com/",
+      "source_status": "needs_source_link",
+      "timestamp": "02:05",
+      "viewpoint": "平板哑铃卧推活动范围比杠铃更大，下放时胸拉伸更充分；推起时哑铃向中线靠拢，适合改善左右胸不对称，控制节奏，不要猛弹。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃低杠深蹲": [
+    {
+      "id": "viewpoint_1f160e62dbff0147",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "低杠深蹲姿态与发力侧重",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:02",
+      "viewpoint": "低杠深蹲杠铃放在肩胛后束位置，躯干前倾幅度更大，臀部后坐更多，对臀部、后侧链刺激更强，适合力量向，新手优先熟练高杠深蹲",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_杠铃弯举（站姿）": [
+    {
+      "id": "viewpoint_bf0117fbe652e6e6",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "杠铃弯举控制摆动，重视离心",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "03:55",
+      "viewpoint": "杠铃弯举上臂贴紧躯干固定不动，只活动肘关节；禁止身体摆动甩重量；重视离心下放控制；手臂属于孤立部位，末尾组可以RIR0‑1。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_a1dc4af850ac66c3",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "杠铃弯举二头训练，控制摆动",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:14",
+      "viewpoint": "杠铃弯举上臂贴紧躯干固定不动，只活动肘关节；禁止身体摆动甩动重量，离心下放保持控制，不要直接释放杠铃重量。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_2b6c10ea707b0aaa",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "杠铃弯举二头弯举动作模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:40",
+      "viewpoint": "弯举是肱二头肌核心动作模式；上臂贴紧身体固定不动，只活动肘关节，不要身体摆动甩重量；离心下放同样保持控制，不要直接把杠铃砸下去",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_Pendlay划船（垫高版）": [
+    {
+      "id": "viewpoint_b693c398c2909948",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "Deficit Pendlay Row垫高台潘德雷划船",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "11:20",
+      "viewpoint": "垫高台Pendlay划船，杠铃每一次都完全落地面，从静止启动；躯干尽量平行地面，强化上背厚度；不要借助惯性摆动，每一次重新启动对神经与背部刺激更强。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_Bayesian绳索弯举": [
+    {
+      "id": "viewpoint_2a419970313392a2",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "Bayesian Cable Curl二头拉长位训练",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:15",
+      "viewpoint": "Bayesian绳索弯举，大臂放在身体后方，让二头肌全程处于拉长张力；该动作在拉长位置产生更大机械张力，对二头肌整体肥大收益优于普通牧师凳弯举。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_过头绳索臂屈伸": [
+    {
+      "id": "viewpoint_634da485154c6c88",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "Overhead cable tricep extension绳索过头臂屈伸",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:30",
+      "viewpoint": "绳索过头臂屈伸专门针对肱三头肌长头；大臂保持贴近耳朵固定，只做小臂屈伸；绳索全程维持张力，相比哑铃版本减少重力卸力点。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_史密斯机臀推": [
+    {
+      "id": "viewpoint_cc42880686ef68b5",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "史密斯臀推安全变式",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:22",
+      "viewpoint": "史密斯臀推轨迹固定，适合新手学习臀推模式，或者独自训练缺少保护；但缺少横向自由度，优先自由杠铃臀推作为主项，史密斯作为备选。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_脚垫高罗马尼亚硬拉": [
+    {
+      "id": "viewpoint_289332d728a587da",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "垫高站距RDL腘绳肌更大拉伸",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:14",
+      "viewpoint": "站在小杠铃片上做罗马尼亚硬拉，增加下放幅度，腘绳肌获得更大拉伸张力；前提是腰背可以保持刚性，不要为了幅度弯腰牺牲脊柱姿态。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_窄距杠铃卧推": [
+    {
+      "id": "viewpoint_1a6c33f55006a2ca",
+      "speaker": "Jeff Nippard",
+      "speaker_id": "coach_jeffnippard",
+      "title": "Close‑grip bench press窄距杠铃卧推",
+      "platform": "bilibili（字幕搬运）",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:40",
+      "viewpoint": "窄距杠铃卧推主刺激肱三头肌，附带胸内侧；握距略窄于肩，不要握过窄，过窄大幅提升肘关节压力；复合组RIR2‑3，不要频繁力竭。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_海豹划船（开肘）": [
+    {
+      "id": "viewpoint_db47d165e6d37529",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "海豹划船开肘坐姿划船强化后束与上背",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:22",
+      "viewpoint": "海豹划船开肘向外拉，手肘高于手腕；更多调动三角肌后束与中上斜方肌；躯干稳定，不要后仰甩动；适合改善圆肩，补强后束薄弱。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_澳式引体（史密斯反向划船）": [
+    {
+      "id": "viewpoint_39395129fc0e4589",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "澳式引体史密斯反向划船",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:40",
+      "viewpoint": "澳式引体远固定水平拉；调整杠铃高度越低难度越大；依靠肩胛带动身体向上；可以作为引体向上前置基础训练，强化肩胛稳定。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_跪姿健腹轮": [
+    {
+      "id": "viewpoint_db9cc7acc75afad2",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "跪姿健腹轮核心抗伸展训练",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:11",
+      "viewpoint": "跪姿健腹轮重点训练腹横肌抗伸展；缓慢向前推出，下背不要塌腰；不要追求推到最远处，优先保持脊柱刚性；属于核心稳定动作，不是练腹肌分离度。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_俯身Y举": [
+    {
+      "id": "viewpoint_e0b586c47e07bf98",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "俯身Y举肩中束后束混合刺激",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:33",
+      "viewpoint": "俯身Y举手臂摆出Y字形向上抬起；同时刺激三角肌中束、后束；重量要轻，严格抑制耸肩，上斜方代偿是最大坑。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿器械推胸": [
+    {
+      "id": "viewpoint_c2949e9fac41ef13",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "器械推胸固定轨迹的利弊",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "07:44",
+      "viewpoint": "器械推胸轨迹固定，新手容易找到胸感受；缺点自由度不足，无法适配每个人肩肘骨骼比例；适合热身、补充，不能完全替代自由重量卧推主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    },
+    {
+      "id": "viewpoint_706df1fb3a10cb16",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "坐姿器械推胸属于推胸动作模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "14:10",
+      "viewpoint": "坐姿器械推胸归类为【推胸】主动作模式；固定轨迹对关节友好，适合热身、能力不足时代替杠铃卧推；但是自由度受限，优先自由重量作为主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_高脚杯深蹲": [
+    {
+      "id": "viewpoint_b88e26667d0ff206",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "高脚杯深蹲下肢模式入门",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:22",
+      "viewpoint": "高脚杯深蹲双手抱住哑铃置于胸前；适合新手学习深蹲髋膝配合，建立躯干直立模式；可以作为杠铃深蹲前置训练。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_交替触肩平板支撑": [
+    {
+      "id": "viewpoint_0f1c462b779c6c89",
+      "speaker": "凯圣王",
+      "speaker_id": "coach_kaishengwang",
+      "title": "平板交替触肩抗旋转核心",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "05:33",
+      "viewpoint": "平板支撑交替触碰对侧肩膀；训练躯干抗旋转能力；骨盆不要翻转、髋不要扭动；手肘不要锁死超伸。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索推胸": [
+    {
+      "id": "viewpoint_755fc01ffd1d8aaa",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "龙门架水平绳索推胸",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "10:33",
+      "viewpoint": "绳索水平推胸属于推胸模式；绳索全程持续张力；适合肩不舒服时的推胸替代变式，不作为大重量主项。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_器械高位划船": [
+    {
+      "id": "viewpoint_ed62f79e8fa6f1bc",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "器械高位划船水平拉模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "09:44",
+      "viewpoint": "器械高位划船属于水平拉动作模式；把手拉向胸口，侧重中上背与三角肌后束；可以和拉向腹部的划船互相轮换，改变刺激侧重。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_坐姿器械肩推举": [
+    {
+      "id": "viewpoint_2acfd29c45ce2996",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "坐姿器械肩推举推肩模式",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "08:20",
+      "viewpoint": "器械肩推举属于推肩主模式；背靠靠背消除腰部代偿；适合腰部弱、新手建立推肩模式；优先掌握动作模式，再过渡哑铃、杠铃推举。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ],
+  "action_绳索反向飞鸟": [
+    {
+      "id": "viewpoint_232c28326b52fa1a",
+      "speaker": "好人松松",
+      "speaker_id": "coach_haorensongsong",
+      "title": "绳索反向飞鸟高度切换改变后束刺激点",
+      "platform": "bilibili",
+      "source_url": "https://...",
+      "source_status": "needs_source_link",
+      "timestamp": "06:50",
+      "viewpoint": "绳索反向飞鸟把手高度调整；高位侧重三角肌后束上部；低位侧重后束下部；同个动作模式微调力线改变刺激区域。",
+      "category": "动作技术",
+      "stance": "主流",
+      "verified": true
+    }
+  ]
+}

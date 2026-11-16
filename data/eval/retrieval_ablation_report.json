@@ -1,0 +1,1028 @@
+{
+  "summary": {
+    "BM25": {
+      "hit": 0.11764705882352941,
+      "recall": 0.058823529411764705,
+      "mrr": 0.041176470588235294,
+      "ndcg": 0.036708854117872815
+    },
+    "Vector": {
+      "hit": 0.17647058823529413,
+      "recall": 0.11764705882352941,
+      "mrr": 0.041176470588235294,
+      "ndcg": 0.05482014078913413
+    },
+    "Hybrid RRF": {
+      "hit": 0.11764705882352941,
+      "recall": 0.08823529411764706,
+      "mrr": 0.03137254901960784,
+      "ndcg": 0.04078978844807475
+    },
+    "Full retrieval": {
+      "hit": 1.0,
+      "recall": 0.8823529411764706,
+      "mrr": 0.9088235294117647,
+      "ndcg": 0.8215401040695584
+    }
+  },
+  "details": [
+    {
+      "question": "深蹲怎么做",
+      "expected": [
+        "action_杠铃高杠深蹲"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_b73f352de7ee4170",
+          "viewpoint_b88e26667d0ff206",
+          "action_安德森深蹲（安全架底位启动深蹲）",
+          "viewpoint_5b0f47962b734ad4",
+          "viewpoint_1f160e62dbff0147"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_高脚杯深蹲",
+          "action_安德森深蹲（安全架底位启动深蹲）",
+          "viewpoint_b88e26667d0ff206",
+          "viewpoint_b73f352de7ee4170",
+          "viewpoint_5b0f47962b734ad4"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_b73f352de7ee4170",
+          "action_安德森深蹲（安全架底位启动深蹲）",
+          "viewpoint_b88e26667d0ff206",
+          "viewpoint_5b0f47962b734ad4",
+          "action_高脚杯深蹲"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_杠铃高杠深蹲",
+          "viewpoint_aa4f051af8f80795",
+          "action_杠铃低杠深蹲",
+          "action_安德森深蹲（安全架底位启动深蹲）",
+          "action_杠铃前深蹲"
+        ]
+      }
+    },
+    {
+      "question": "平板杠铃卧推",
+      "expected": [
+        "action_平板杠铃卧推"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_4b8889a0802d7248",
+          "viewpoint_198b709671049528",
+          "viewpoint_3cbccc2b6f964bb4",
+          "viewpoint_37480842fca178bb"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_4b8889a0802d7248",
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_902486bcdb6e6e60",
+          "viewpoint_2c56faf2a7a1c7f7",
+          "viewpoint_198b709671049528"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_4b8889a0802d7248",
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_198b709671049528",
+          "viewpoint_902486bcdb6e6e60",
+          "viewpoint_2c56faf2a7a1c7f7"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_平板杠铃卧推",
+          "viewpoint_198b709671049528",
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_6e4d032a6c016576",
+          "viewpoint_2c56faf2a7a1c7f7"
+        ]
+      }
+    },
+    {
+      "question": "卧推怎么做",
+      "expected": [
+        "action_平板哑铃卧推",
+        "action_平板杠铃卧推"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_3cbccc2b6f964bb4",
+          "viewpoint_37480842fca178bb",
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_198b709671049528",
+          "viewpoint_902486bcdb6e6e60"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_绳索推胸",
+          "viewpoint_2c56faf2a7a1c7f7",
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_198b709671049528",
+          "action_地板卧推（杠铃）"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_ef866dc1d07cff21",
+          "viewpoint_198b709671049528",
+          "action_绳索推胸",
+          "viewpoint_3cbccc2b6f964bb4",
+          "viewpoint_2c56faf2a7a1c7f7"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.9197207891481876,
+        "ids": [
+          "action_平板杠铃卧推",
+          "viewpoint_198b709671049528",
+          "action_平板哑铃卧推",
+          "action_上斜哑铃卧推",
+          "action_下斜哑铃卧推"
+        ]
+      }
+    },
+    {
+      "question": "硬拉动作",
+      "expected": [
+        "action_传统硬拉"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_3eeab0826d2d57a2",
+          "action_哑铃硬拉",
+          "viewpoint_bddfc5cdc667245e",
+          "viewpoint_268f8659d191afe1",
+          "viewpoint_58352e6d669deb92"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_3eeab0826d2d57a2",
+          "viewpoint_a2f5dd03473d39c8",
+          "action_罗马尼亚硬拉（杠铃）",
+          "viewpoint_94f88cfe36936b6f",
+          "action_单腿罗马尼亚硬拉（哑铃）"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_3eeab0826d2d57a2",
+          "viewpoint_a2f5dd03473d39c8",
+          "action_哑铃硬拉",
+          "action_罗马尼亚硬拉（杠铃）",
+          "viewpoint_bddfc5cdc667245e"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 0.2,
+        "ndcg": 0.38685280723454163,
+        "ids": [
+          "action_罗马尼亚硬拉（杠铃）",
+          "viewpoint_b5234bf029308748",
+          "action_单腿罗马尼亚硬拉（哑铃）",
+          "action_脚垫高罗马尼亚硬拉",
+          "action_传统硬拉"
+        ]
+      }
+    },
+    {
+      "question": "引体向上",
+      "expected": [
+        "action_引体向上（宽握）"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_355b80a819419328",
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_e828c7b6cadc1d03",
+          "viewpoint_93778d6037387bb1",
+          "viewpoint_ea9a260d86ccbcbb"
+        ]
+      },
+      "Vector": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 0.25,
+        "ndcg": 0.43067655807339306,
+        "ids": [
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_ae04c8276787c5c9",
+          "viewpoint_e828c7b6cadc1d03",
+          "action_引体向上（宽握）",
+          "viewpoint_355b80a819419328"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 0.2,
+        "ndcg": 0.38685280723454163,
+        "ids": [
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_355b80a819419328",
+          "viewpoint_e828c7b6cadc1d03",
+          "viewpoint_ae04c8276787c5c9",
+          "action_引体向上（宽握）"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_引体向上（宽握）",
+          "viewpoint_ea9a260d86ccbcbb",
+          "action_引体向上（窄握反握）",
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_ae04c8276787c5c9"
+        ]
+      }
+    },
+    {
+      "question": "怎么练上胸",
+      "expected": [
+        "action_上斜哑铃卧推",
+        "action_绳索夹胸（低位）"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_9b2ffa6ddcdbb8ff",
+          "viewpoint_65a8a1ce31206f47",
+          "viewpoint_ed1f5926888667a5",
+          "muscle_胸内侧",
+          "viewpoint_4a92ce4bb9808683"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_4a92ce4bb9808683",
+          "viewpoint_ee22cc7647f5d449",
+          "viewpoint_9b2ffa6ddcdbb8ff",
+          "action_俯卧撑（标准）",
+          "viewpoint_755fc01ffd1d8aaa"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_9b2ffa6ddcdbb8ff",
+          "viewpoint_4a92ce4bb9808683",
+          "viewpoint_ee22cc7647f5d449",
+          "viewpoint_65a8a1ce31206f47",
+          "viewpoint_ed1f5926888667a5"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.9197207891481876,
+        "ids": [
+          "action_上斜哑铃卧推",
+          "action_上斜哑铃飞鸟",
+          "action_绳索夹胸（低位）",
+          "action_哑铃前平举",
+          "action_杠铃前平举"
+        ]
+      }
+    },
+    {
+      "question": "练胸的动作",
+      "expected": [
+        "action_平板杠铃卧推",
+        "action_蝴蝶机夹胸"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_f02e7e2c8859e910",
+          "viewpoint_de6b4d3add5158b5",
+          "viewpoint_ed1f5926888667a5",
+          "viewpoint_ce7cb9427f08f7e1",
+          "viewpoint_5d07ecfad0eaa51e"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_4a92ce4bb9808683",
+          "viewpoint_5d07ecfad0eaa51e",
+          "action_绳索推胸",
+          "action_俯卧撑（标准）",
+          "action_宽距俯卧撑"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_5d07ecfad0eaa51e",
+          "viewpoint_4a92ce4bb9808683",
+          "viewpoint_f02e7e2c8859e910",
+          "viewpoint_de6b4d3add5158b5",
+          "action_绳索推胸"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.9197207891481876,
+        "ids": [
+          "action_平板杠铃卧推",
+          "action_平板哑铃卧推",
+          "action_蝴蝶机夹胸",
+          "action_俯卧撑（标准）",
+          "action_宽距俯卧撑"
+        ]
+      }
+    },
+    {
+      "question": "二头怎么练",
+      "expected": [
+        "action_杠铃弯举（站姿）",
+        "action_牧师凳弯举"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_51065f06f49f457f",
+          "viewpoint_edd2745cd0506ef2",
+          "action_集中弯举",
+          "action_哑铃交替弯举",
+          "action_辅助引体向上（器械）"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_51065f06f49f457f",
+          "viewpoint_2a419970313392a2",
+          "viewpoint_ed1b7b2b19408eb9",
+          "viewpoint_679ab1baa659eae5",
+          "viewpoint_d12adcad54170c1d"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_51065f06f49f457f",
+          "viewpoint_2a419970313392a2",
+          "viewpoint_edd2745cd0506ef2",
+          "viewpoint_ed1b7b2b19408eb9",
+          "action_集中弯举"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.9197207891481876,
+        "ids": [
+          "action_杠铃弯举（站姿）",
+          "action_哑铃交替弯举",
+          "action_牧师凳弯举",
+          "action_集中弯举",
+          "action_绳索弯举（直杆）"
+        ]
+      }
+    },
+    {
+      "question": "三头的动作",
+      "expected": [
+        "action_仰卧杠铃臂屈伸（碎颅者）",
+        "action_绳索下压（直杆）"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_d7ec8ce1886166e0",
+          "viewpoint_5d07ecfad0eaa51e",
+          "action_坐姿器械肩推举",
+          "action_地板卧推（杠铃）",
+          "action_绳索推胸"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_d7ec8ce1886166e0",
+          "viewpoint_c99d84fae8ecc2cc",
+          "viewpoint_679ab1baa659eae5",
+          "viewpoint_cfc603152dcca203",
+          "viewpoint_0174f5b357d53f9d"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_d7ec8ce1886166e0",
+          "viewpoint_c99d84fae8ecc2cc",
+          "viewpoint_5d07ecfad0eaa51e",
+          "viewpoint_679ab1baa659eae5",
+          "action_坐姿器械肩推举"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.9197207891481876,
+        "ids": [
+          "action_绳索下压（直杆）",
+          "action_绳索下压（V型杆）",
+          "action_仰卧杠铃臂屈伸（碎颅者）",
+          "action_哑铃颈后臂屈伸（站姿）",
+          "action_俯身哑铃臂屈伸"
+        ]
+      }
+    },
+    {
+      "question": "后束怎么练",
+      "expected": [
+        "action_俯身哑铃反向飞鸟",
+        "action_绳索面拉"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_de6b4d3add5158b5",
+          "viewpoint_c5263befccc3d171",
+          "viewpoint_ed03c9c973fa284e",
+          "viewpoint_f02e7e2c8859e910",
+          "viewpoint_d61c187f57e5fc9d"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_de6b4d3add5158b5",
+          "action_绳索反向飞鸟",
+          "viewpoint_dff5747cde78b1a5",
+          "viewpoint_5ea908b6dec66391",
+          "action_器械反向飞鸟"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_de6b4d3add5158b5",
+          "action_绳索反向飞鸟",
+          "viewpoint_c5263befccc3d171",
+          "viewpoint_dff5747cde78b1a5",
+          "viewpoint_ed03c9c973fa284e"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 1.0,
+        "ndcg": 0.6131471927654584,
+        "ids": [
+          "action_俯身哑铃反向飞鸟",
+          "action_绳索反向飞鸟",
+          "action_器械反向飞鸟",
+          "action_俯身Y举",
+          "action_海豹划船（开肘）"
+        ]
+      }
+    },
+    {
+      "question": "练臀的动作",
+      "expected": [
+        "action_坐姿腿外展器械",
+        "action_杠铃臀推"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_b5234bf029308748",
+          "viewpoint_c93548d23a321670",
+          "viewpoint_f02e7e2c8859e910",
+          "viewpoint_de6b4d3add5158b5",
+          "viewpoint_ce7cb9427f08f7e1"
+        ]
+      },
+      "Vector": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.25,
+        "ndcg": 0.2640681225725909,
+        "ids": [
+          "viewpoint_1e36e5806752d97d",
+          "viewpoint_b777b2b0feab016b",
+          "viewpoint_351b891720c558f4",
+          "action_杠铃臀推",
+          "viewpoint_087fd6ae2839a91b"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_1e36e5806752d97d",
+          "viewpoint_b5234bf029308748",
+          "viewpoint_b777b2b0feab016b",
+          "viewpoint_c93548d23a321670",
+          "viewpoint_351b891720c558f4"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.25,
+        "ndcg": 0.2640681225725909,
+        "ids": [
+          "viewpoint_1e36e5806752d97d",
+          "viewpoint_b777b2b0feab016b",
+          "viewpoint_351b891720c558f4",
+          "action_杠铃臀推",
+          "viewpoint_087fd6ae2839a91b"
+        ]
+      }
+    },
+    {
+      "question": "股四怎么练",
+      "expected": [
+        "action_杠铃高杠深蹲",
+        "action_腿举"
+      ],
+      "BM25": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.2,
+        "ndcg": 0.23719771276929622,
+        "ids": [
+          "viewpoint_d61c187f57e5fc9d",
+          "viewpoint_1bea81b58f336110",
+          "action_哈克深蹲（反向）",
+          "action_哈克深蹲（正向）",
+          "action_腿举"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_腿屈伸",
+          "viewpoint_bc898c22bd6e0db4",
+          "viewpoint_a1915e5a2fafacbb",
+          "viewpoint_9e1912f171781644",
+          "viewpoint_271e153bce85530e"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_腿屈伸",
+          "viewpoint_d61c187f57e5fc9d",
+          "viewpoint_bc898c22bd6e0db4",
+          "viewpoint_1bea81b58f336110",
+          "viewpoint_a1915e5a2fafacbb"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_杠铃高杠深蹲",
+          "action_腿举",
+          "action_哈克深蹲（正向）",
+          "action_腿屈伸",
+          "action_坐姿腿内收器械"
+        ]
+      }
+    },
+    {
+      "question": "腹肌怎么练",
+      "expected": [
+        "action_卷腹",
+        "action_悬垂举腿"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_ce7cb9427f08f7e1",
+          "viewpoint_db9cc7acc75afad2",
+          "muscle_腹直肌",
+          "viewpoint_d61c187f57e5fc9d",
+          "viewpoint_c5263befccc3d171"
+        ]
+      },
+      "Vector": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.2,
+        "ndcg": 0.23719771276929622,
+        "ids": [
+          "viewpoint_7cd1d32c75943f10",
+          "action_跪姿健腹轮",
+          "muscle_腹直肌",
+          "action_仰卧举腿",
+          "action_卷腹"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "muscle_腹直肌",
+          "viewpoint_7cd1d32c75943f10",
+          "viewpoint_ce7cb9427f08f7e1",
+          "action_跪姿健腹轮",
+          "viewpoint_db9cc7acc75afad2"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 1.0,
+        "ndcg": 0.6131471927654584,
+        "ids": [
+          "action_卷腹",
+          "action_反向卷腹",
+          "action_悬垂屈膝举腿",
+          "action_绳索卷腹",
+          "action_杠铃前深蹲"
+        ]
+      }
+    },
+    {
+      "question": "没器械怎么练背",
+      "expected": [
+        "action_引体向上（宽握）"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_ed62f79e8fa6f1bc",
+          "viewpoint_de6b4d3add5158b5",
+          "viewpoint_db9cc7acc75afad2",
+          "viewpoint_d61c187f57e5fc9d",
+          "action_器械高位划船"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_3e37b325020edabc",
+          "viewpoint_9c3924cdcad4b716",
+          "action_器械高位划船",
+          "action_坐姿绳索划船（窄握V把）"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_器械高位划船",
+          "viewpoint_b69b9fdbf43a5f57",
+          "viewpoint_ed62f79e8fa6f1bc",
+          "viewpoint_3e37b325020edabc",
+          "viewpoint_de6b4d3add5158b5"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_引体向上（宽握）",
+          "action_引体向上（窄握反握）",
+          "action_山羊挺身（背伸）",
+          "action_高位下拉（窄握V把）",
+          "action_高位下拉（宽握正手）"
+        ]
+      }
+    },
+    {
+      "question": "家里没哑铃怎么练胸",
+      "expected": [
+        "action_俯卧撑（标准）",
+        "action_宽距俯卧撑"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_de6b4d3add5158b5",
+          "viewpoint_16929b5cbfa681db",
+          "action_上斜哑铃卧推",
+          "action_平板哑铃卧推",
+          "viewpoint_50771df8e34f45d8"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_4b8889a0802d7248",
+          "action_平板哑铃卧推",
+          "action_上斜哑铃卧推",
+          "viewpoint_16929b5cbfa681db",
+          "action_下斜哑铃卧推"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_平板哑铃卧推",
+          "viewpoint_16929b5cbfa681db",
+          "action_上斜哑铃卧推",
+          "viewpoint_4b8889a0802d7248",
+          "viewpoint_de6b4d3add5158b5"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 1.0,
+        "ids": [
+          "action_俯卧撑（标准）",
+          "action_宽距俯卧撑",
+          "action_窄距俯卧撑",
+          "viewpoint_4b8889a0802d7248",
+          "viewpoint_16929b5cbfa681db"
+        ]
+      }
+    },
+    {
+      "question": "新手练腿的动作",
+      "expected": [
+        "action_杠铃高杠深蹲",
+        "action_腿举"
+      ],
+      "BM25": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_坐姿器械肩推举",
+          "viewpoint_268f8659d191afe1",
+          "action_悬垂屈膝举腿",
+          "viewpoint_b88e26667d0ff206",
+          "viewpoint_6e43b913f992d67e"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_93d9c13d3a789fc5",
+          "viewpoint_e5b46688e78b0bc6",
+          "action_悬垂屈膝举腿",
+          "viewpoint_cc3239fe9716fbdc",
+          "viewpoint_4771d9c02c7a89da"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "action_悬垂屈膝举腿",
+          "viewpoint_93d9c13d3a789fc5",
+          "action_坐姿器械肩推举",
+          "viewpoint_e5b46688e78b0bc6",
+          "viewpoint_268f8659d191afe1"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 1.0,
+        "ndcg": 0.6131471927654584,
+        "ids": [
+          "action_腿举",
+          "action_腿屈伸",
+          "action_坐姿腿内收器械",
+          "action_俯卧腿弯举",
+          "action_坐姿腿弯举"
+        ]
+      }
+    },
+    {
+      "question": "练小腿的动作",
+      "expected": [
+        "action_坐姿提踵",
+        "action_站姿提踵"
+      ],
+      "BM25": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.5,
+        "ndcg": 0.38685280723454163,
+        "ids": [
+          "viewpoint_9091d8eaabe64db0",
+          "action_坐姿提踵",
+          "viewpoint_f02e7e2c8859e910",
+          "viewpoint_de6b4d3add5158b5",
+          "action_杠铃臀推"
+        ]
+      },
+      "Vector": {
+        "hit": 0.0,
+        "recall": 0.0,
+        "mrr": 0.0,
+        "ndcg": 0.0,
+        "ids": [
+          "viewpoint_9091d8eaabe64db0",
+          "action_俯卧腿弯举",
+          "viewpoint_93d9c13d3a789fc5",
+          "action_坐姿腿弯举",
+          "action_坐姿腿外展器械"
+        ]
+      },
+      "Hybrid RRF": {
+        "hit": 1.0,
+        "recall": 0.5,
+        "mrr": 0.3333333333333333,
+        "ndcg": 0.3065735963827292,
+        "ids": [
+          "viewpoint_9091d8eaabe64db0",
+          "action_俯卧腿弯举",
+          "action_坐姿提踵",
+          "viewpoint_93d9c13d3a789fc5",
+          "viewpoint_f02e7e2c8859e910"
+        ]
+      },
+      "Full retrieval": {
+        "hit": 1.0,
+        "recall": 1.0,
+        "mrr": 1.0,
+        "ndcg": 0.8772153153380493,
+        "ids": [
+          "action_坐姿提踵",
+          "action_坐姿腿内收器械",
+          "viewpoint_9091d8eaabe64db0",
+          "action_站姿提踵",
+          "action_俯卧腿弯举"
+        ]
+      }
+    }
+  ]
+}

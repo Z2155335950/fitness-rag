@@ -1,0 +1,998 @@
+{
+  "summary": {
+    "questions": 18,
+    "answerable_questions": 13,
+    "unanswerable_questions": 5,
+    "direct_accuracy": 0.3888888888888889,
+    "rag_accuracy": 1.0,
+    "accuracy_lift": 0.6111111111111112,
+    "accuracy_lift_ci95": [
+      0.3888888888888889,
+      0.8333333333333334
+    ],
+    "direct_hallucination_rate": 0.2242724867724868,
+    "rag_hallucination_rate": 0.026455026455026454,
+    "hallucination_reduction": 0.19781746031746034,
+    "hallucination_reduction_ci95": [
+      0.04431216931216932,
+      0.368452380952381
+    ],
+    "direct_unanswerable_abstention": 0.4,
+    "rag_unanswerable_abstention": 0.6,
+    "rag_source_coverage": 1.0
+  },
+  "rows": [
+    {
+      "id": "q01",
+      "category": "动作观点",
+      "question": "凯圣王对平板杠铃卧推的RPE和递进组有什么观点？",
+      "answerable": true,
+      "reference": "凯圣王建议平板杠铃卧推动作质量优先于重量，RPE约8，每组预留1-2次余力，不追求每组力竭，采用递进组。",
+      "direct_answer": "我不了解“凯圣王”这个人，也没有可靠信息能确认他对平板杠铃卧推的RPE和递进组具体持什么观点，所以不能替你编造他的说法。\n\n如果你指的是某位具体教练或博主，可以补充他的全名、平台或相关视频/文章出处，我再帮你分析。就一般训练原则而言：平板杠铃卧推常用RPE 6–8做递进组（保留2–4次余力），技术稳定后再逐步加重或加量；RPE 9–10更适合偶尔测试或冲击，不宜频繁作为递进组主力。",
+      "rag_answer": "凯圣王在平板杠铃卧推上的观点是：动作质量优先于重量数字，采用递进组模式，RPE 控制在 8，每组预留 1–2 次余力，不追求每组力竭；同时肩胛预先固定下沉后缩，触胸时保持胸部张力，禁止弹震起杠，用瓦式呼吸稳定胸腔。（以上为凯圣王个人观点）",
+      "rag_sources": [
+        {
+          "name": "平板杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：平板杠铃卧推肩胛稳定提示",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：平板杠铃卧推肩胛稳定与发力逻辑",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：平板杠铃卧推肩胛稳定与手肘角度",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：平板杠铃卧推RPE控制与递进组逻辑",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：底位停顿卧推消除反弹借力",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：平板哑铃卧推张力控制要点",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": true,
+        "total_claims": 2,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q02",
+      "category": "动作观点",
+      "question": "谭成义对高杠深蹲的肋骨控制有什么观点？",
+      "answerable": true,
+      "reference": "谭成义强调高杠深蹲躯干相对直立，肋骨全程收住不要翻肋，膝盖跟随脚尖方向。",
+      "direct_answer": "我不知道“谭成义”这个人，也无法确认他对高杠深蹲肋骨控制的具体观点。如果你指的是某位教练或作者，请补充背景或出处，我可以基于通用生物力学帮你分析高杠深蹲中肋骨控制的原则。",
+      "rag_answer": "谭成义的观点是：高杠深蹲时肋骨要全程收住，不要翻肋，同时保持躯干直立、不要刻意过度俯身。这是他的个人训练观点，不是绝对标准。",
+      "rag_sources": [
+        {
+          "name": "杠铃高杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：高杠深蹲躯干稳定与肋骨控制",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "杠铃低杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "安德森深蹲（安全架底位启动深蹲）",
+          "kind": "action"
+        },
+        {
+          "name": "杠铃前深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（正向）",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（反向）",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": false,
+        "abstained": true,
+        "total_claims": 0,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q03",
+      "category": "训练体系",
+      "question": "好人松松怎么看自然训练者的容量上限和deload？",
+      "answerable": true,
+      "reference": "好人松松认为自然训练者存在容量上限，不能照搬科技选手的高容量计划；应以渐进超负荷为核心，周期性安排deload，疲劳堆积时降低总组数。",
+      "direct_answer": "关于\"好人松松\"的具体观点，我没有可靠信息，不能替他转述。但作为教练，我可以直接讲自然训练者的容量上限和deload该怎么理解和操作。\n\n**容量上限**\n自然训练者的可恢复容量有上限，但不是固定数字，取决于训练年限、睡眠、饮食、压力、动作选择和强度。判断是否接近上限，看这几个信号：\n- 同一重量下次数连续下滑，或组间表现明显掉档\n- 关节、肌腱出现持续酸痛而非肌肉延迟性酸痛\n- 睡眠变差、静息心率升高、训练欲望下降\n- 每周训练量增加后，力量不涨反退\n\n一般经验：每个肌群每周10–20个有效组是常见区间，新手偏下限，进阶者偏上限，但个体差异很大。容量应该渐进增加，而不是一步拉满。\n\n**Deload**\ndeload不是停练，是主动降负荷让身体吸收训练。常见做法：\n- 每4–8周安排一次，或出现上面那些过度疲劳信号时提前安排\n- 强度保留（重量不变或略降），容量砍40–60%\n- 或容量保留，强度降到60–70% 1RM\n- 持续5–7天，之后正常回归\n\n关键点：deload要提前规划，别等到练崩了才减。自然训练者恢复能力有限，规律的小deload比硬扛到被迫休息更划算。\n\n如果你能提供\"好人松松\"具体是哪篇文章或哪个视频的观点，我可以帮你对照分析，但我不替他背书。",
+      "rag_answer": "好人松松的观点大致是两点：\n\n1. **容量有上限**：自然训练者不能照搬科技选手的高容量计划，堆太多组数容易恢复不过来。他更强调渐进超负荷，疲劳堆积时降低总组数，优先保障恢复。\n2. **周期性deload**：疲劳累积时安排减载，把总组数降下来，而不是硬扛着继续加量。\n\n另外顺带一提，Jeff Nippard 给过更具体的数字：自然训练者每块肌肉每周有效硬组大概 10–20 组，每 4–6 周安排一次减载周、总容量降 40–50%。这些都属于个人观点，可以当参考框架，具体还得看你的恢复情况和训练经验来调。\n\n你是在考虑给自己安排减载，还是想先定个每周容量？",
+      "rag_sources": [
+        {
+          "name": "好人松松观点：自然选手容量上限与deload减载",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：配重选择：先模式，再加重量",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：每4‑6周执行一次deload减载周",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：高杠深蹲站位、躯干姿态与自然选手容量",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：单块肌肉每周有效硬组10‑20组",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：每块肌肉每周训练2次最优频率",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：山羊挺身后侧链训练要点",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 0,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 4,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q04",
+      "category": "动作观察",
+      "question": "Jeff Nippard对窄距杠铃卧推的握距有什么观点？",
+      "answerable": true,
+      "reference": "Jeff Nippard建议窄距杠铃卧推握距略窄于肩，不要握得过窄；过窄会明显增加肘关节压力，动作主要刺激肱三头肌。",
+      "direct_answer": "Jeff Nippard 对窄距杠铃卧推的握距观点，核心是：**窄握不是越窄越好，握距应大致与肩同宽（或略窄于肩），以兼顾胸肌刺激和肘/腕关节舒适度**。\n\n具体来说：\n\n- 他通常建议双手间距约 **与肩同宽**，或比肩略窄一点；不建议握到双手几乎并拢的“超窄握”。\n- 过窄的握距会明显增加腕关节和肘关节的压力，也容易让前臂过度内旋，对大多数人来说并不舒服，也不利于稳定发力。\n- 窄距卧推的主要价值在于**增加肱三头肌参与、强化卧推中段锁定能力**，同时仍保留一定的胸肌刺激；因此握距要让你能自然下放、肘部不过度外展，也不过度夹紧。\n- 他倾向于让训练者根据**肩宽、手臂长度和关节舒适度**微调，而不是死守某个固定厘米数；关键是动作稳定、无痛、能持续进步。\n\n如果你想要更精确的“他的原话”，我无法确认具体视频或文章中的逐字表述，但以上是他公开内容中一贯的窄距卧推握距思路。",
+      "rag_answer": "Jeff Nippard 的观点是：窄距杠铃卧推的握距**略窄于肩**就行，**不要握得过窄**——过窄会大幅增加肘关节压力。另外他建议这个动作作为复合动作时练到 **RIR 2–3**，不用频繁力竭。\n\n（以上是 Jeff Nippard 的个人观点，来自 bilibili 字幕搬运视频。）",
+      "rag_sources": [
+        {
+          "name": "窄距杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "Jeff Nippard观点：Close‑grip bench press窄距杠铃卧推",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：平板哑铃卧推更大活动幅度与不对称矫正",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：坐姿哑铃推举减少腰椎代偿风险",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：窄握V把高位下拉刺激背阔下沿",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：杠铃弯举控制摆动，重视离心",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：上斜哑铃卧推倾角选择15‑30度",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 4,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 1,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q05",
+      "category": "新动作",
+      "question": "海豹划船主要练哪里，动作要点是什么？",
+      "answerable": true,
+      "reference": "海豹划船主要训练菱形肌、中上斜方肌和三角肌后束；胸部抵住靠垫，手肘向外上方打开，肩胛主动后缩，避免后仰借力。",
+      "direct_answer": "海豹划船主要练**上背部**，重点刺激**背阔肌、斜方肌中下部、菱形肌**，同时也会带到**三角肌后束**和**肱二头肌**。它属于水平拉类动作，对改善圆肩、强化肩胛后缩和背部厚度很有帮助。\n\n动作要点：\n\n1. **体位**：俯卧在平板凳上，胸口贴凳，双手握哑铃或杠铃自然下垂。双脚踩地保持稳定。\n2. **肩胛先动**：拉起前先做肩胛后缩下沉，想象“把肩胛骨夹向脊柱”，再用手肘带动重量。\n3. **手肘轨迹**：手肘贴近身体两侧向后拉，拉至手肘略超过躯干即可，不要耸肩。\n4. **顶峰收缩**：顶端停顿1秒，感受背部收紧，避免用二头肌代偿。\n5. **下放控制**：缓慢下放至手臂自然伸直，保持背部张力，不要完全放松。\n6. **呼吸**：拉起时呼气，下放时吸气。\n7. **重量选择**：以能标准完成8–12次为宜，优先保证肩胛控制和背部发力感。\n\n常见错误：耸肩、用手臂猛拉、胸口离开凳子、下放过快。",
+      "rag_answer": "海豹划船主要练**菱形肌、中上斜方肌和三角肌后束**，背阔肌和肱二头肌是辅助参与。它属于复合动作，偏上背和后束，和窄肘划船正好互补。\n\n动作要点：\n- 胸部抵住靠垫，躯干保持稳定，别后仰借力\n- 手肘向外上方打开，把手拉向胸部\n- 肩胛主动后缩，别耸肩\n\n常见错误就是耸肩、后仰甩动、手肘过度下压。\n\n另外凯圣王有个观点可以参考：开肘向外拉、手肘高于手腕，会更调动三角肌后束和中上斜方肌，适合改善圆肩、补强后束薄弱——不过这是他的个人观点，不是唯一标准。",
+      "rag_sources": [
+        {
+          "name": "海豹划船（开肘）",
+          "kind": "action"
+        },
+        {
+          "name": "凯圣王观点：海豹划船开肘坐姿划船强化后束与上背",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：T杠划船加厚中背训练",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：反手杠铃俯身划船背阔下部",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "坐姿绳索划船（窄握V把）",
+          "kind": "action"
+        },
+        {
+          "name": "好人松松观点：T杠划船中背厚度训练",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "器械高位划船",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 7,
+        "unsupported_claims": 0,
+        "contradicted_claims": 2
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q06",
+      "category": "新动作",
+      "question": "高脚杯深蹲适合什么人群，怎么练？",
+      "answerable": true,
+      "reference": "高脚杯深蹲适合新手学习深蹲模式；配重贴近胸前，躯干稳定，膝盖跟随脚尖，脚掌完整着地。",
+      "direct_answer": "高脚杯深蹲适合的人群和练法如下：\n\n**适合人群**\n- 健身新手：动作模式简单，容易掌握深蹲的基本发力。\n- 想练下肢但腰背容易代偿的人：胸前抱重量能帮助保持躯干直立，减少腰部压力。\n- 居家训练者：一个哑铃或壶铃就能练，不需要杠铃架。\n- 想作为深蹲热身或技术练习的人：可作为杠铃深蹲前的激活和动作模式练习。\n- 中老年人或康复后期人群（在无禁忌、动作可控前提下）：负荷可调，强度温和。\n\n**怎么练**\n1. 双手捧住一只哑铃（或壶铃）上端，贴于胸前，肘部自然向下。\n2. 双脚略比肩宽，脚尖微微外展。\n3. 吸气，屈髋屈膝下蹲，膝盖方向与脚尖一致，蹲到大腿接近平行或舒适深度。\n4. 保持胸口挺起、核心收紧，脚跟踩实地面。\n5. 呼气，脚掌发力站起，回到起始位置。\n\n**要点提醒**\n- 全程保持重量贴近身体，不要前伸。\n- 膝盖不要内扣，下蹲时重心落在全脚掌。\n- 先徒手或轻重量掌握动作，再逐步加负荷。\n- 每组8–12次，做3–4组，根据能力调整。\n\n如果有膝、髋、腰相关伤病，建议先咨询医生或康复师再练。",
+      "rag_answer": "高脚杯深蹲最适合两类人：一是刚接触力量训练、想学深蹲动作模式的新手；二是暂时没有杠铃、只有哑铃或壶铃的人。它把负重放在胸前，躯干更容易保持直立，学起来比杠铃深蹲友好很多。凯圣王也提过，它适合新手建立髋膝配合和躯干直立模式，还能作为杠铃深蹲的前置训练（这是他的个人观点）。\n\n练法上：\n\n- **起始**：双手抱住哑铃或壶铃，贴紧胸前，双脚与肩同宽左右，脚尖略外展。\n- **下蹲**：膝盖跟随脚尖方向，脚掌完整着地，蹲到大腿平行地面或略低，躯干保持稳定。\n- **起身**：脚掌踩实，髋膝一起伸展站起。\n- **常见错误**：含胸、膝盖内扣、配重太大导致躯干过度前倾。重量以能保持躯干直立为准，宁可轻一点。\n\n组次上，新手可以从 3 组 × 8–12 次开始，组间休息 60–90 秒，动作稳定后再慢慢加重量。\n\n你是想用它当新手入门，还是作为深蹲主项的辅助？告诉我你的训练目标和器械情况，我可以帮你排进计划里。",
+      "rag_sources": [
+        {
+          "name": "高脚杯深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "凯圣王观点：高脚杯深蹲下肢模式入门",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：高杠深蹲站位、躯干姿态与自然选手容量",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "杠铃高杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "Jeff Nippard观点：高杠深蹲股四主导，自然选手容量控制",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：高杠深蹲躯干姿态与RPE执行",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：低杠深蹲姿态与发力侧重",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 8,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 7,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q07",
+      "category": "动作区别",
+      "question": "Pendlay划船垫高版和普通划船这两个动作有什么区别？",
+      "answerable": true,
+      "reference": "Pendlay划船垫高版的杠铃每次完整落地后静止启动，躯干接近水平，不允许反弹借力；垫高双脚增加动作幅度。",
+      "direct_answer": "Pendlay划船垫高版和普通划船的主要区别在于**起始位置、发力模式和训练目的**：\n\n1. **起始位置**\n- **Pendlay划船**：每次动作都从地面重新开始，杠铃完全落地后再拉起。\n- **垫高版Pendlay划船**：把杠铃垫高（比如放在杠铃片或垫木上），起始高度更高，减少下背部和髋部的活动范围。\n- **普通划船**（如俯身杠铃划船）：杠铃通常悬空，不落地，动作连续进行。\n\n2. **发力模式**\n- **Pendlay划船**：强调爆发力，每次从静止启动，需要更强的核心稳定和背部快速发力。\n- **垫高版**：因为起始位置更高，对下背部柔韧性和髋铰链要求降低，更集中刺激上背部和中背部。\n- **普通划船**：动作连贯，肌肉持续紧张，更偏向肌肥大和耐力。\n\n3. **对下背部的要求**\n- **Pendlay划船**：对下背部力量和髋铰链灵活性要求较高，因为要从地面拉起。\n- **垫高版**：降低了起始难度，适合下背部力量较弱或柔韧性不足的人。\n- **普通划船**：需要全程维持俯身姿势，对下背部等长收缩耐力有要求。\n\n4. **适用人群**\n- **Pendlay划船**：适合有一定基础、想提升爆发力和背部力量的人。\n- **垫高版**：适合初学者、下背部不适或柔韧性受限者，作为过渡。\n- **普通划船**：适合大多数训练者，用于增肌和基础力量。\n\n简单说：**垫高版是Pendlay划船的降阶版本**，降低了起始难度，更聚焦上背刺激；普通划船则是连续动作，肌肉张力时间更长。",
+      "rag_answer": "这俩差别还挺关键的，主要在于**“每次从地面静止启动”**和**“躯干角度”**。\n\n**Pendlay划船（垫高版）**\n- 杠铃每次完整落地，**静止后再启动**，不借反弹\n- 躯干接近水平，更偏上背厚度\n- 垫高双脚是为了增加动作幅度\n- 对神经和背部刺激更集中，但技术要求高，适合已有划船基础的人\n- Jeff Nippard 也强调过这个动作“每一次重新启动、不借惯性”的特点（这是他的个人观点）\n\n**普通杠铃俯身划船**\n- 杠铃通常**不落地**，连续做\n- 俯身角度大约45°，杠铃贴大腿拉到下腹\n- 更偏整体背部，节奏可以连贯一些\n\n简单说：Pendlay 是“每次归零、爆发启动、更水平”，普通划船是“连续节奏、角度稍立”。前者更考验控制和启动力量，后者更容易上手、能做更高次数。\n\n你现在是在纠结选哪个放进计划里吗？还是想了解哪个更适合你的目标？",
+      "rag_sources": [
+        {
+          "name": "Pendlay划船（垫高版）",
+          "kind": "action"
+        },
+        {
+          "name": "Jeff Nippard观点：Deficit Pendlay Row垫高台潘德雷划船",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "杠铃俯身划船（正手）",
+          "kind": "action"
+        },
+        {
+          "name": "杠铃俯身划船（反手）",
+          "kind": "action"
+        },
+        {
+          "name": "T杠划船",
+          "kind": "action"
+        },
+        {
+          "name": "单臂哑铃划船",
+          "kind": "action"
+        },
+        {
+          "name": "坐姿绳索划船（宽握）",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 8,
+        "unsupported_claims": 2,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 7,
+        "unsupported_claims": 1,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q09",
+      "category": "动作观点",
+      "question": "Jeff Nippard关于卧推动作的手肘角度有什么观点？",
+      "answerable": true,
+      "reference": "Jeff Nippard建议卧推手肘与躯干夹角约45-60度，不要打开到90度；肩胛预先下沉后缩，保持三点接触。",
+      "direct_answer": "Jeff Nippard 在卧推教学里通常建议：**大臂与躯干约呈 45°–70° 的夹角**，而不是完全外展成 90°。他的核心观点是：\n\n- **不要手肘完全打开成 90°**：那样肩关节压力大，增加肩前侧受伤风险。\n- **也不要过度夹紧**：夹得太紧会变成偏三头主导，胸肌参与减少，动作也不自然。\n- **推荐自然下沉、略收的手肘位置**：下放时手肘大致朝斜后方，杠铃落点在下胸到胸骨附近，这样兼顾胸肌刺激和肩部安全。\n- **个体差异存在**：肩宽、胸廓形状、握距不同，最佳角度会有变化，但总体原则是“手肘略收、不要完全外展”。\n\n如果你问的是他某一期具体视频里的原话或精确角度，我无法确认到逐字表述；以上是他公开教学内容中一贯的立场。",
+      "rag_answer": "我这边知识库里没有 Jeff Nippard 关于卧推手肘角度的具体观点，不能替他编一个说法。\n\n能确认的相关信息是：平板杠铃卧推的常见错误里提到“手肘外展90度”会增加锁肩压力，建议避免；窄距卧推则要求手肘靠近躯干。另外谭成义的观点是卧推要先把肩胛骨下沉后缩固定住，不要随推起向外飘（这是他的个人观点）。\n\n如果你想要更细的手肘角度建议，我可以按通用原则帮你梳理，但不会冒充是 Nippard 的原话。",
+      "rag_sources": [
+        {
+          "name": "平板杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：平板杠铃卧推肩胛稳定提示",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "平板哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "下斜哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "地板卧推（杠铃）",
+          "kind": "action"
+        },
+        {
+          "name": "窄距杠铃卧推",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 5,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q10",
+      "category": "动作观点",
+      "question": "凯圣王如何看待动作质量与重量？",
+      "answerable": true,
+      "reference": "凯圣王强调动作质量优先于重量数字；动作变形时应先降重，而不是硬扛重量。",
+      "direct_answer": "我不了解“凯圣王”这个人，无法确认他的具体观点。如果你指的是某位健身博主或教练，建议直接看他的原视频/原文，或告诉我他的全名和平台，我再帮你分析。",
+      "rag_answer": "凯圣王的观点很明确：重量重要，但动作质量的优先级更高。如果动作开始变形，应该优先降重，而不是硬扛重量；长期安全增肌，动作模式是根基。（这是凯圣王在 bilibili 视频中的个人观点，时间点 15:33）\n\n简单说就是：先把动作做对，再谈加重。",
+      "rag_sources": [
+        {
+          "name": "凯圣王观点：动作质量优先于重量数字",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：杠铃弯举二头训练，控制摆动",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：哑铃侧平举肩中束训练，规避斜方代偿",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：双杠臂屈伸姿态区分胸与三头刺激",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：上斜哑铃卧推角度与负荷分配",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：递减组适合孤立，不适合复合大重量",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：正手杠铃俯身划船水平拉要点",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": true,
+        "total_claims": 0,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q11",
+      "category": "观点纠正",
+      "question": "蝴蝶机夹胸可以替代卧推吗？请结合库中的观点回答。",
+      "answerable": true,
+      "reference": "库中多位训练者认为蝴蝶机夹胸属于孤立收尾动作，不能替代卧推这类复合推胸主项。",
+      "direct_answer": "不能替代。蝴蝶机夹胸和卧推虽然都练胸，但动作模式和训练效果差别很大：\n\n- **动作性质不同**：卧推是复合动作，胸、肩、三头协同发力，能上较大重量，对整体力量和肌肉量的刺激更全面；蝴蝶机夹胸是单关节孤立动作，主要针对胸大肌，重量和负荷有限。\n- **力量与功能迁移**：卧推带来的上肢推力和稳定性提升，是夹胸给不了的；夹胸更多是补充胸肌中缝和顶峰收缩的刺激。\n- **训练定位**：一般把卧推作为胸部训练的主项，蝴蝶机夹胸作为辅助或收尾动作，用来增加泵感和孤立刺激，而不是互相替代。\n\n所以结论是：蝴蝶机夹胸可以作为卧推的补充，但不能替代卧推。如果目标是增肌或提升上肢力量，卧推仍应保留在计划里。",
+      "rag_answer": "不能替代。库里的几位都明确把蝴蝶机夹胸定位成“收尾/孤立”动作，而不是推胸主项：\n\n- 谭成义：适合收尾、强化胸内侧，不适合上大重量。\n- 好人松松：夹胸是胸肌次要孤立模式，不能替代卧推这类推胸复合主项。\n- Jeff Nippard：属于孤立收尾动作，不能替代复合推胸。\n- 凯圣王：同样说不能替代卧推这类复合主项，适合训练末尾做充血感受。\n\n所以合理用法是：卧推这类复合推胸当主项，蝴蝶机夹胸放在后面收尾，背部贴紧靠背、别抬肩，顶峰夹紧停顿，重量不用冲太大。\n\n如果你愿意说下目标（增肌/力量/塑形）、每周练几天、有什么器械，我可以帮你把它排进一份具体计划里。",
+      "rag_sources": [
+        {
+          "name": "蝴蝶机夹胸",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：蝴蝶机夹胸胸缝雕刻",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：蝴蝶机夹胸夹胸动作模式定位",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：蝴蝶机夹胸孤立胸内侧，收尾充血",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：蝴蝶机夹胸定位：收尾充血动作",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "平板杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "平板哑铃卧推",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 4,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q12",
+      "category": "别名与进阶",
+      "question": "负重引体向上在库里关联哪个动作，有哪些进阶观点？",
+      "answerable": true,
+      "reference": "负重引体向上关联引体向上（宽握）；应先保证自重动作标准，再增加负重，并重视离心下放和控制。",
+      "direct_answer": "你说的“库里”我无法确认指哪个库（比如某个动作库/训练计划库/APP 动作库），所以不能准确告诉你“负重引体向上”在库里关联哪个动作。一般来说，负重引体向上最直接关联的是**引体向上（Pull-up）**，也可能关联**负重下拉/高位下拉**作为退阶或辅助动作，但具体要看那个库的分类方式。\n\n进阶观点可以给你这些：\n\n1. **先保证自重引体质量**：能稳定完成多次标准引体（肩胛下沉、胸口向杠、无摆动）再加负重更安全。\n2. **负重方式渐进**：腰带/链条负重比背包更稳定；从 2.5–5 kg 小步加，别一次加太多。\n3. **用总负荷管理进阶**：进阶不只看加片，还可以看总次数、组数、节奏（离心 3 秒）、握距变化。\n4. **周期化安排**：力量日做低次数大负重（如 3–5 次），容量日做中等负重多次数；每周别把高强度负重引体堆太密。\n5. **退阶/辅助动作**：负重高位下拉、离心引体、弹力带辅助引体、划船类动作可补容量和背部厚度。\n6. **技术优先**：负重后更容易出现耸肩、半程、摆动；一旦动作变形就降重。\n7. **恢复与肩肘管理**：负重引体对肘、肩、握力压力大，注意握力训练、肩胛控制和休息。\n\n如果你告诉我具体是哪个“库”（动作库名称或截图里的分类），我可以帮你判断它最可能关联哪个动作。",
+      "rag_answer": "库里关联的动作是**引体向上（宽握）**，负重引体是它的进阶形式。相关观点主要来自 Jeff Nippard：\n\n- **先自重、后负重**：先保证自重引体动作标准，再挂负重片；不要靠摆动借力，重视离心下放阶段（Jeff Nippard）。\n- **动作模式**：启动前充分下放，获得背阔肌拉伸张力；启动先沉肩，用手肘向下驱动身体，顶峰停顿，重点控制下放离心（Jeff Nippard）。\n- **定位**：负重引体向上是自然背阔最高效的复合动作之一，自然训练者可以把它作为垂直拉首选主项（Jeff Nippard）。\n\n另外几位讲的是自重/辅助引体的模式，负重前也适用：谭成义强调宽握先沉肩、手肘向下拉、胸口找杠、不摆动；好人松松和凯圣王都强调“沉肩+手肘下压”而不是单纯弯手臂，力量不够先用高位下拉或器械辅助引体过渡，并逐步减少助力（凯圣王、谭成义）。\n\n如果你打算把负重引体排进计划，告诉我你的训练目标、每周练几天、有什么器械，我可以帮你安排组次和进阶节奏。",
+      "rag_sources": [
+        {
+          "name": "Jeff Nippard观点：Weighted Pull‑Up负重引体向上执行要点",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：宽握引体向上背阔宽度",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：宽握引体向上垂直拉动作模式",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：宽握引体向上充分拉伸背阔，控制离心",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：宽握引体向上垂直拉模式要点",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：器械辅助引体向上背阔入门",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：器械辅助引体向上进阶思路",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": true,
+        "total_claims": 7,
+        "unsupported_claims": 0,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q13",
+      "category": "库外动作",
+      "question": "库里有没有莱尔斯卧推（Larsen Press）？",
+      "answerable": false,
+      "reference": "当前知识库没有收录莱尔斯卧推，不能声称库中存在这个动作。",
+      "direct_answer": "我不知道你说的“库里”具体指哪个库（比如某个动作库/课程库/训练计划库），所以没法确认里面有没有莱尔斯卧推（Larsen Press）。如果你把库的名称或截图/目录发我，我可以帮你判断；另外莱尔斯卧推就是不吃腿驱动、脚可离地或轻放的卧推变式，主要练上肢推力和稳定性。",
+      "rag_answer": "没有。这轮知识库里没有莱尔斯卧推（Larsen Press）这个动作，所以我不能给你编它的要点和组次安排。\n\n简单说，莱尔斯卧推是脚离地、不借腿部驱动的卧推变式，主要练胸和肩的稳定性——但这只是常识性描述，不算知识库依据。如果你想要替代动作，库里现有的平板杠铃卧推、地板卧推、窄距卧推都可以用。\n\n你是想把它加进训练计划里，还是单纯问问？如果要排计划，告诉我目标、每周练几天、有什么器械就行。",
+      "rag_sources": [
+        {
+          "name": "平板杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：平板杠铃卧推肩胛稳定提示",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "平板哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "上斜哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "下斜哑铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "地板卧推（杠铃）",
+          "kind": "action"
+        },
+        {
+          "name": "窄距杠铃卧推",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 2,
+        "unsupported_claims": 0,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q15",
+      "category": "库外信息",
+      "question": "谭成义有没有给出2027年奥赛的具体备赛日程？",
+      "answerable": false,
+      "reference": "当前知识库没有2027年奥赛的具体备赛日程，不能编造日期或计划。",
+      "direct_answer": "我不知道谭成义是否给出过2027年奥赛的具体备赛日程。这类信息需要以他本人或其团队公开发布的内容为准，我无法确认。",
+      "rag_answer": "没有。当前知识库里谭成义的内容只涉及具体动作细节（俯身划船角度、面拉、凯索耸肩、阿诺德推举等），没有任何关于2027年奥赛备赛日程的信息，我不能替他编一个。\n\n如果你是想按备赛思路安排训练，可以告诉我你的目标、每周能练几天、有什么器械，我帮你排。",
+      "rag_sources": [
+        {
+          "name": "谭成义观点：杠铃俯身划船俯身角度选择",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：绳索面拉肩袖与后束激活",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：凯索耸肩中斜方菱形肌",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：俯身哑铃反向飞鸟后束",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：每4‑6周执行一次deload减载周",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：阿诺德推举肩前中束过渡刺激",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "谭成义观点：地板杠铃卧推胸向心收缩",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 1,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 2,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q16",
+      "category": "错误前提",
+      "question": "凯圣王关于每周深蹲七天有什么观点？",
+      "answerable": false,
+      "reference": "当前知识库没有凯圣王推荐每周深蹲七天的观点；不能把不存在的高频建议归给他。",
+      "direct_answer": "我不知道“凯圣王”具体指谁，也无法确认他关于“每周深蹲七天”的观点。作为教练，我只能给一般性判断：每天深蹲不建议长期执行，尤其大重量或高强度深蹲，会增加膝、髋、腰和中枢神经疲劳风险，影响恢复。若只是徒手或低强度深蹲，也要看训练目的、动作质量和恢复情况，最好安排休息日或交替训练。",
+      "rag_answer": "知识库里没有凯圣王关于“每周深蹲七天”的观点，我不能替他编一个。\n\n如果你是想问“深蹲能不能天天练”，这得看强度、容量和恢复安排，不能一概而论。你现在每周练几天、深蹲用什么重量和组次？我可以帮你判断频率是否合理。",
+      "rag_sources": [
+        {
+          "name": "杠铃高杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：高杠深蹲躯干稳定与肋骨控制",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "杠铃低杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "安德森深蹲（安全架底位启动深蹲）",
+          "kind": "action"
+        },
+        {
+          "name": "杠铃前深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（正向）",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（反向）",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=B",
+      "direct": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 2,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 2,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q17",
+      "category": "错误前提",
+      "question": "Jeff Nippard关于蝴蝶机夹胸可以替代杠铃卧推的观点是什么？",
+      "answerable": false,
+      "reference": "该前提错误。库中观点认为蝴蝶机夹胸是收尾孤立动作，不能替代杠铃卧推这类复合主项。",
+      "direct_answer": "我不知道 Jeff Nippard 就“蝴蝶机夹胸能否替代杠铃卧推”有过一个明确的、可直接引用的观点。据我了解，他通常把蝴蝶机夹胸视为胸肌的孤立/辅助动作，用来补充卧推这类复合动作，而不是替代卧推；因为杠铃卧推涉及多关节、更大负荷和更全面的力量刺激，蝴蝶机夹胸在负荷潜力和整体训练效果上不能完全等价。若你指的是某期具体视频或文章，我需要看到具体来源才能准确确认他的原话。",
+      "rag_answer": "知识库里没有 Jeff Nippard 关于“蝴蝶机夹胸替代杠铃卧推”的观点，我不能替他编一个。\n\n现有资料里只有他对平板杠铃卧推的看法：肩胛预先后缩下沉钉在凳面、手肘与躯干保持 45–60 度、适度起桥但保证头/上背/臀部三点接触、复合组 RIR2–3 不频繁力竭（这是 Jeff Nippard 的个人观点）。\n\n另外从动作性质上说，蝴蝶机夹胸是单关节孤立动作，杠铃卧推是复合推举动作，两者训练刺激和可替代性不是一回事——但这属于一般训练常识，不是资料里 Nippard 的原话。\n\n你是想找“胸肌训练里用夹胸替代卧推”的方案，还是在核对某个视频的说法？告诉我具体场景，我可以帮你判断怎么安排更合理。",
+      "rag_sources": [
+        {
+          "name": "平板杠铃卧推",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：平板杠铃卧推肩胛稳定提示",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "好人松松观点：平板杠铃卧推肩胛稳定与发力逻辑",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：平板杠铃卧推肩胛稳定与手肘角度",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：平板杠铃卧推RPE控制与递进组逻辑",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "地板卧推（杠铃）",
+          "kind": "action"
+        },
+        {
+          "name": "窄距杠铃卧推",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": true,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q08",
+      "category": "观点归属",
+      "question": "关于自然训练者容量上限，谁持有不能照搬科技选手高容量计划的观点？",
+      "answerable": true,
+      "reference": "好人松松持有这一观点：自然训练者有容量上限，应周期性deload并优先保证恢复。",
+      "direct_answer": "这个观点在自然训练圈里比较有代表性的是 **Lyle McDonald** 和 **Eric Helms** 等人。他们强调自然训练者的恢复能力和蛋白质合成窗口有限，不能照搬科技选手那种高频、高组数、高容量的计划。\n\n不过要说明：我无法确认你指的是某篇具体文章或某个特定人物的原话。如果你有具体出处（比如某本书、某个播客），可以发给我，我再帮你核对。",
+      "rag_answer": "是好人松松。他在 B 站相关视频里表达过这个观点：自然训练者有明确的容量上限，不能照搬科技选手的高容量计划，应该以渐进超负荷为核心，疲劳堆积时降低总组数、优先保障恢复。这是他的个人观点。",
+      "rag_sources": [
+        {
+          "name": "好人松松观点：自然选手容量上限与deload减载",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：单块肌肉每周有效硬组10‑20组",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：每块肌肉每周训练2次最优频率",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：每4‑6周执行一次deload减载周",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：双重递进：先加次数，再加重量",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：Myo‑Reps短休息重复组增肌技术",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "Jeff Nippard观点：传统硬拉自然选手频率与脊柱刚性",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 2,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q14",
+      "category": "库外动作",
+      "question": "库里有没有凤凰深蹲这个动作？",
+      "answerable": false,
+      "reference": "当前知识库没有名为凤凰深蹲的动作，不能编造收录记录。",
+      "direct_answer": "“凤凰深蹲”不是健身领域公认的标准动作名称，我无法确认库里是否有这个动作。如果你指的是某个特定课程、视频或教练自创的动作，需要提供具体来源才能判断。常见的深蹲变式有颈前深蹲、颈后深蹲、相扑深蹲、保加利亚分腿蹲等，你可以描述一下动作细节，我帮你判断它对应哪种训练。",
+      "rag_answer": "知识库里没有“凤凰深蹲”这个动作。库里和深蹲相关的有：杠铃高杠深蹲、杠铃低杠深蹲、安德森深蹲、杠铃前深蹲、哈克深蹲（正向/反向）。\n\n“凤凰深蹲”可能是某个博主自创的叫法，或者你记混了名字。你是在哪儿看到的？如果方便描述一下动作怎么做，我可以帮你判断它更接近库里哪个动作。",
+      "rag_sources": [
+        {
+          "name": "杠铃高杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：高杠深蹲躯干稳定与肋骨控制",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "杠铃低杠深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "安德森深蹲（安全架底位启动深蹲）",
+          "kind": "action"
+        },
+        {
+          "name": "杠铃前深蹲",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（正向）",
+          "kind": "action"
+        },
+        {
+          "name": "哈克深蹲（反向）",
+          "kind": "action"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 1,
+        "contradicted_claims": 0
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 3,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    },
+    {
+      "id": "q18",
+      "category": "错误前提",
+      "question": "关于侧平举使用大重量并每组力竭，凯圣王是什么观点？",
+      "answerable": true,
+      "reference": "凯圣王的观点是侧平举不适合大重量，手臂微弯抬到肩高，抑制耸肩和上斜方代偿，优先肌肉感受；因此“大重量并每组力竭”与他观点相反。",
+      "direct_answer": "我不知道凯圣王对“侧平举用大重量并每组力竭”的具体观点，没有可靠信息可以确认他的原话或立场。\n\n从训练原理上说，侧平举是单关节孤立动作，三角肌中束力臂短、杠杆不利，大重量时很容易靠斜方肌耸肩、躯干摆动和惯性代偿，目标肌刺激反而下降，肩关节风险也更高。每组都力竭对孤立动作的恢复成本偏高，容易影响后续推举类训练和训练频率。更常见的做法是中等重量、控制离心、每组保留1—2次余力，偶尔在最后一组接近或达到力竭。",
+      "rag_answer": "凯圣王明确不赞成侧平举用大重量、拼力竭。他的观点是：侧平举不适合大重量，手臂微弯抬到肩膀高度即可，重点是抑制耸肩——上斜方肌代偿是这个动作最主要的问题，应该优先肌肉感受，不要追求重量数字。（这是凯圣王的个人观点，来源：bilibili，09:33）\n\n顺带说一句，力竭本身他没在这段里专门讲，但“不追求重量数字、优先感受”这个思路，和每组拼到力竭是相冲突的。",
+      "rag_sources": [
+        {
+          "name": "哑铃侧平举",
+          "kind": "action"
+        },
+        {
+          "name": "谭成义观点：侧平举中束低代偿思路",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "绳索侧平举",
+          "kind": "action"
+        },
+        {
+          "name": "器械侧平举",
+          "kind": "action"
+        },
+        {
+          "name": "单臂哑铃侧平举",
+          "kind": "action"
+        },
+        {
+          "name": "凯圣王观点：哑铃侧平举肩中束训练，规避斜方代偿",
+          "kind": "viewpoint"
+        },
+        {
+          "name": "凯圣王观点：俯身Y举肩中束后束混合刺激",
+          "kind": "viewpoint"
+        }
+      ],
+      "judge_order": "RAG=A",
+      "direct": {
+        "correct": false,
+        "abstained": true,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 1
+      },
+      "rag": {
+        "correct": true,
+        "abstained": false,
+        "total_claims": 5,
+        "unsupported_claims": 0,
+        "contradicted_claims": 0
+      }
+    }
+  ]
+}
